@@ -1,4 +1,4 @@
-# Pr-sentation-de-Among-us-Town-of-host
+# Pésentation de Among us Town-of-host
 Ici il n'y a qu'un fichier READ ME qui contient une présentation du mod et des rôles modés en français.
 
 Le mod "Town of host" est légal et il provient du site internet de Gitchub et pour l'installer regarde un tuto sur Youtube pour t'aider (ou les étapes que j'ai élaborer tout en bas). 
