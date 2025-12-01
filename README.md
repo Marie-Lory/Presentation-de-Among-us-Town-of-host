@@ -134,10 +134,12 @@ En ce qui concerne les rôles que j'utiliserais en game il y en a 17 mais seulem
 
 PETITE PRECISION, Lorsqu'une personne possèdant un rôle neutre qui peut tuer est éjecté, le jeu affichera qu'il n'est pas imposteur et c'est normal donc pas de panique (de toute façon la confirmation d'éjéction sera désactiver pour éviter cette confusion)
 
-ROLE EXCLUSIF À L'HOTE SI IL LE SOUHAITE : 
+ROLE EXCLUSIF À L'HOTE SI IL LE SOUHAITE :
+
 Maître du jeu : Le Maître du jeu (GM en abréviation anglaise) est un spectateur. Sa présence n'a aucun effet sur le jeu, et tous les joueurs savent qui est le maître du jeu. Le rôle sera attribué à l'hôte, qui deviendra automatiquement un fantôme au début du jeu et pourra donc aider les personnes vivantes a mieux comprendre le fonctionnement du mod.
 
 ROLES IMPOSTEUR :
+
 Chasseur de prime : Si vous tuez la cible indiquée, votre prochain temps de recharge sera considérablement réduit. Si vous tuez quelqu'un d'autre que votre cible, votre prochain temps de recharge augmentera énormément. La cible change au bout de 60 secondes.
 
 Ninja : Lorsque le ninja tue, tous les joueurs dans la même pièce sont aveuglés pendant un court instant.
@@ -148,6 +150,7 @@ Hackeur Maléfique : Lors des réunions, vous pouvez obtenir des informations a 
 
 
 ROLES COEQUIPIER :
+
 Appât : Lorsque vous êtes tué, vous forcez votre tueur à se signaler immédiatement.
 
 Lumière : Une fois que vous aurez terminé toutes vos tâches, vous pourrez mieux voir dans le noir.
@@ -166,6 +169,7 @@ Vif d'or : Une fois que vous avez terminé toutes vos tâches, les noms des impo
 
 
 ROLES NEUTRE :
+
 
 Pyroman : Lorsque vous utilisez le bouton Tuer, vous arrosez votre cible d'essence. Après avoir arrosé tous les joueurs vivants avec la marque ▲ en restant bien coller a votre cible pour avoir le triangle orange remplit, vous pourrez mettre tout le monde en feu et gagner en allant dans un conduit par contre avant tout cela vous ne pourez pas aller dans un conduit. Attention s'il n'y a plus d'imposteur en vie à part vous, vous perdrez directement donc agissez vite !
 
