@@ -183,9 +183,10 @@ Le Malade : Votre but est d’infecter tous les joueurs vivants en appuyant sur 
 
 
 
-POUR CEUX QUI VEULENT INSTALLER LE MOD, voici les étapes que j'ai listé pour cela :
+POUR CEUX QUI VEULENT INSTALLER LE MOD, voici les étapes que j'ai listés pour cela :
 
 Si vous voulez installer le mod vous devrez faire les 11 choses suivantes !
+
 de 1 aller sur internet sur le site de gitchub et trouver la page parlant du mod "Town Of Host"
 puis installer la dernière version
 
