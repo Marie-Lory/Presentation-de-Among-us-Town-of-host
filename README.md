@@ -20,63 +20,117 @@ Au niveau des rôles, vous ne devez pas dire votre rôle SAUF si vous êtes : le
 Voici la liste des rôles du mod ( à gauche c'est leurs noms en anglais et à droite leurs noms français)
 
 Shapeshifter: Métamorphe
+
 BountyHunter: Chasseur de primes
+
 Mare: Tueur de l'ombre
+
 FireWorks: Artificier
+
 SerialKiller: Tueur en série
+
 ShapeMaster: Maître de la métamorphose
+
 Vampire: Vampire
+
 Warlock: Démoniste
+
 Witch: Sorcière
+
 Mafia: Mafia
+
 Puppeteer: Marionnettiste
+
 TimeThief: Voleur de temps
+
 Sniper: Tireur d'élite
+
 EvilTracker: Traqueur maléfique
+
 Stealth: Ninja
+
 NekoKabocha: Neko-Kabocha
+
 EvilHacker: Hacker maléfique
+
 Penguin: Penguin
+
 Insider: L'informé maléfique
+
 Madmate: Fou
+
 MadGuardian: Gardien fou
+
 MadSnitch: Vif d'or fou
+
 SKMadmate: Compagnon fou
+
 Watcher: Observateur
+
 Bait: Appât
+
 Lighter: Lumière
+
 Mayor: Maire
+
 SabotageMaster: Maître du sabotage
+
 Sheriff: Shérif
+
 Arsonist: Pyroman
+
 Snitch: Vif d'or
+
 SpeedBooster: Booster de vitesse
+
 Doctor: Médecin
+
 Trapper: Trappeur
+
 Dictator: Dictateur
+
 Seer: Voyant
+
 TimeManager: Gestionnaire de temps
+
 Jester: Bouffon
+
 Terrorist: Terroriste
+
 Executioner: Bourreau
+
 SchrodingerCat: Chat de Schrödinger
+
 CSchrodingerCat: Chat de Schrödinger coéquipier
+
 MSchrodingerCat: Chat de Schrödinger imposteur
+
 EgoSchrodingerCat: Chat de Schrödinger égoïste
+
 JSchrodingerCat: Chat de Schrödinger chacal
+
 Opportunist: Opportuniste
+
 Egoist: Égoïste
+
 Lovers: Amoureux
+
 Jackal: Chacal
+
 PlagueDoctor: Le malade
+
 HASFox: Renard
+
 HASTroll: Troll
+
 GM: Maître du jeu
+
 LastImpostor: Dernier imposteur
+
 Workhorse: Maître des tâches
 
 
-En ce qui concerne les rôles que j'utiliserais en game il y en a 15 mais seulement 17 maximum pourront être pris en même temps et les voici (et avec leur description) :
+En ce qui concerne les rôles que j'utiliserais en game il y en a 17 mais seulement 15 maximum pourront être pris en même temps et les voici (et avec leur description) :
 
 PETITE PRECISION, Lorsqu'une personne possèdant un rôle neutre qui peut tuer est éjecté, le jeu affichera qu'il n'est pas imposteur et c'est normal donc pas de panique (de toute façon la confirmation d'éjéction sera désactiver pour éviter cette confusion)
 
