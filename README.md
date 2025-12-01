@@ -1,6 +1,8 @@
 # Pésentation de Among us Town-of-host
 Ici il n'y a qu'un fichier READ ME qui contient une présentation du mod et des rôles modés en français.
 
+INFORMATION IMPORTANTE : Pour utiliser le mod SEUL l'hôte du lobby doit avoir le mod et les autres joueurs pourront aussi utiliser le mod juste en rejoignant le lobby tout simplement !
+
 Le mod "Town of host" est légal et il provient du site internet de Gitchub et pour l'installer regarde un tuto sur Youtube pour t'aider (ou les étapes que j'ai élaborer tout en bas). 
 
 Ce mod rajoute des tas de nouveaux rôles pour améliorer le jeu, donc si tu a des questions n'hésite pas !
@@ -121,3 +123,39 @@ Chackal : Le Chacal doit tuer tous les coéquipiers, imposteurs et neutres. Le C
 
 Le Malade : Votre but est d’infecter tous les joueurs vivants en appuyant sur le bouton "Tuer" et en restant coller a eux pendant 3 secondes, la première personne que vous infecterez sera tuer et dès qu'une personne s'approchera du corps elle sera aussi infectée de plus elle pourra aussi infecter d'autre personne en s'approchant tout près d'eux pendant 3 seconde. Et aussi si quelqu'un vous tue vous l'infecterez automatiquement (par contre si vous êtes éjecter vous n'infecterez personne).  Attention, vous ne pouvez infectez seulement que 3 personnes maximun par vous-même ! Vous gagner la partie lorsque que toutes les personnes vivantes sont infectées.
 
+
+
+POUR CEUX QUI VEULENT INSTALLER LE MOD, voici les étapes que j'ai listé pour cela :
+
+Si vous voulez installer le mod vous devrez faire les 11 choses suivantes !
+de 1 aller sur internet sur le site de gitchub et trouver la page parlant du mod "Town Of Host"
+puis installer la dernière version
+
+de 2 une fois installer vous devrez aller sur l'application Steam et avoir among us d'acheté
+
+de 3 vous devrez aller dans les fichiers locaux du jeu et les copier coller dans les fichiers du mod
+
+de 4 pour pouvoir ouvir among us vous devrez extraire touts les fichier pour le rend accessible
+
+de 5 si vous vouler jouer avec d'autre français je vous conseille de traduire le mod
+
+de 6 pour le traduire créer un fichier qui s'appellera "french" dans le dossier Language
+il apparaitra après avoir lancer among us avec le mod pour la première fois (et pour je ne sais quelle raison mais lors du tout premier démarrage du mod le jeu prendra des plombes à se lancer donc ne vous inquiétez pas si vous trouvez le temps très long).
+
+de 7 vous allez dans le fichier "template_English" et vous sélectionnez tout son contenu
+et ensuite aller sur google traduction et collé tout pour le traduire en Français
+
+de 8 une fois cela fait vous copier la version traduite dans votre fichier "french"
+
+de 9 pour que tout apparaisse en français lorsque que vous lancerez le jeu à nouveaux 
+il faudra aller dans le fichier "french" et TOUT ce qui est avant les deux points ( : )
+vous devrez le retraduire en ANGLAIS et vous devrez faire cela pour CHAQUE LIGNE
+Mais heureusement la moitié du travaille sera déjà fait par Google traduction
+de plus il faudra ABSOLUMENT enlevez les espaces qui séparent les deux points avec ce qu'il y a avant
+pour que le mod active la traduction en Français (concepte de clé-valeur)
+
+de 10 vous pouvez modifier ce qu'il y a après les deux points ( : ) (valeur) 
+pour écrire ceux que vous voulez (à condition que cela soit compréhensible pour les autres)
+
+et de 11 Une fois tout cela fait vous avez ENFIN réussi à installer le mod et le traduire 
+maitenant libre a vous de vous amusez sur among us avec le reste du monde entier ! ;)
