@@ -1,5 +1,5 @@
 # Pésentation de Among us Town-of-host
-Ici il n'y a qu'un fichier READ ME qui contient une présentation du mod et des rôles modés en français.
+Voici le fichier READ ME qui contient une présentation du mod et des rôles modés en français.
 
 INFORMATION IMPORTANTE : Pour utiliser le mod SEUL l'hôte du lobby doit avoir le mod et les autres joueurs pourront aussi utiliser le mod juste en rejoignant le lobby tout simplement !
 
