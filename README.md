@@ -1,23 +1,23 @@
 # Pésentation de Among us Town-of-host
 Voici le fichier READ ME qui contient une présentation du mod et des rôles modés en français.
 
-INFORMATION IMPORTANTE : Pour utiliser le mod SEUL l'hôte du lobby doit avoir le mod et les autres joueurs pourront aussi utiliser le mod juste en rejoignant le lobby tout simplement ! De plus concernant les dossiers téléchargeables, ils contiennent un fichier french.dat qui correspond à la traduction français que j'ai créer pour utilisé le mod en français. Et aussi il y a 3 autres fichiers qui concernent les messages automatiques (le fichier template), la liste des pseudos bannis lorsque qu'un joueur tente de rejoindre le lobby avec l'un de ces pseudos (le fichier DenyName) et la liste des joueurs bannis que vous ne voulez pas voir dans votre lobby (le fichier BanList et ceux sont les ID des joueurs qui sont banni comme ça même si ils changent de pseudo le mod les reconaîtera a coup sûr ! D'ailleur pour ajouter un joueur dans la Banlist il suffit de le bannir normalement directement dans le jeu.)
+INFORMATION IMPORTANTE : Pour utiliser le mod SEUL l'hôte du lobby doit avoir le mod et les autres joueurs pourront aussi utiliser le mod juste en rejoignant le lobby tout simplement ! De plus concernant les dossiers téléchargeables, ils contiennent un fichier french.dat qui correspond à la traduction français que j'ai créer pour utiliser le mod en français. Et aussi il y a 3 autres fichiers qui concernent les messages automatiques (le fichier template), la liste des pseudos bannis lorsque qu'un joueur tente de rejoindre le lobby avec l'un de ces pseudos (le fichier DenyName) et la liste des joueurs bannis que vous ne voulez pas voir dans votre lobby (le fichier BanList et ceux sont les ID des joueurs qui sont banni comme ça même si ils changent de pseudo le mod les reconaîtera a coup sûr ! D'ailleur pour ajouter un joueur dans la Banlist il suffit de le bannir normalement directement dans le jeu.)
 
-Le mod "Town of host" est légal et il provient du site internet de Gitchub et pour l'installer regarde un tuto sur Youtube pour t'aider (ou les étapes que j'ai élaborer tout en bas). 
+Le mod "Town of host" est légal et il provient du site internet de Gitchub (le lien est https://github.com/tukasa0001/TownOfHost) et pour l'installer regarde un tuto sur Youtube pour t'aider (ou les 11 étapes que j'ai élaboré tout en bas). 
 
 Ce mod rajoute des tas de nouveaux rôles pour améliorer le jeu, donc si tu a des questions n'hésite pas !
 
 Attention ! les personnes aux pseudos immatures ou déplacés seront automatiquement explusés au bout d'un moment et pour pouvoir revenir dans le lobby du jeu il faudra changer votre pseudo !
 
-Aufaite il y a aussi des règles à respecter ici, comme le fait de ne pas spammer "Démarrer" ou "Lance" par exemple, car sinon tu es expulsé. Aussi ne soit pas insultant sinon tu est directement expulsé, le but n'est pas d'embêter tout le monde ! En tout cas je te souhaite de passer un bon moment parmi nous ! ;)
+Aufaite il y a aussi des règles à respecter ici, comme le fait de ne pas spammer "Démarrer" ou "Lance" par exemple, car sinon tu es expulsé. Aussi ne soit pas insultant sinon tu es directement expulsé, le but n'est pas d'embêter tout le monde ! En tout cas je te souhaite de passer un bon moment parmi nous ! ;)
 
-Mauvaise nouvelle, Dût a une mise à jour d'Among Us le seul moyen de faire des parties modées en étant nombreux est de faire de la pub dans d'autres lobby (oui c'est de la propagande xD) pour espérer que des personnes viennent ici... (ou alors demander à un streamer son accord car c'est plus efficace)
+Mauvaise nouvelle, Dût a une mise à jour d'Among Us le seul moyen de faire des parties modées en étant nombreux est de faire de la pub dans d'autres lobby (oui c'est de la propagande xD) pour espérer que des personnes viennent ici... (ou alors demander à un streamer son accord car ça peut être très fun pout tout le monde)
 
 Pour avoir les informations sur votre rôle actuel pendant une partie écrivez /m dans le chat et ne t'inquiète pas car les autres ne verront pas la description de ton rôle. Au faite s'il y a quelque chose que tu ne comprend pas n'hésite pas à me le dire !.
 
 Au niveau des rôles, vous ne devez pas dire votre rôle SAUF si vous êtes : le Vif d'or (à la fin) ou le Shérif.
 
-Voici la liste des rôles du mod ( à gauche c'est leurs noms en anglais et à droite leurs noms français)
+Voici la liste des rôles du mod ( à gauche c'est leur nom en anglais et à droite leur nom français)
 
 Shapeshifter: Métamorphe
 
@@ -146,7 +146,7 @@ Ninja : Lorsque le ninja tue, tous les joueurs dans la même pièce sont aveugl�
 
 L'informé maléfique: Lorsque que vous tuer une personne, vous pouvez connaître le rôle qu'il avait lors de la prochaine réunion sur sa bannière de joueur mort et donc vous saurez si vous avez tué une personne avec un rôle important tel que le Shérif, le Maire, le Vif d'or ou le Chacal par exemple.
 
-Hackeur Maléfique : Lors des réunions, vous pouvez obtenir des informations a propos de \nLa position de vos collègues imposteurs \nLe lieu et le nombre de cadavre tué (marqué avec le symbole ★) de plus vous pourrez voir un kill flash rouge qui vous avertirera qu'un meurtre a eu lieu.
+Hackeur Maléfique : Lors des réunions, vous pouvez obtenir des informations a propos de la position de vos collègues imposteurs, le lieu et le nombre de cadavre tué (marqué avec le symbole ★) de plus vous pourrez voir un kill flash rouge qui vous avertirera qu'un meurtre a eu lieu.
 
 
 ROLES COEQUIPIER :
@@ -170,8 +170,7 @@ Vif d'or : Une fois que vous avez terminé toutes vos tâches, les noms des impo
 
 ROLES NEUTRE :
 
-
-Pyroman : Lorsque vous utilisez le bouton Tuer, vous arrosez votre cible d'essence. Après avoir arrosé tous les joueurs vivants avec la marque ▲ en restant bien coller a votre cible pour avoir le triangle orange remplit, vous pourrez mettre tout le monde en feu et gagner en allant dans un conduit par contre avant tout cela vous ne pourez pas aller dans un conduit. Attention s'il n'y a plus d'imposteur en vie à part vous, vous perdrez directement donc agissez vite !
+Pyroman : Lorsque vous utilisez le bouton Tuer, vous arrosez votre cible d'essence. Après avoir arrosé tous les joueurs vivants avec la marque ▲ en restant bien coller à votre cible pour avoir le triangle orange remplit, vous pourrez mettre tout le monde en feu et gagner en allant dans un conduit par contre avant tout cela vous ne pourez pas aller dans un conduit. Attention s'il n'y a plus d'imposteur en vie à part vous, vous perdrez directement donc agissez vite !
 
 Opportuniste : Tant que vous êtes en vie jusqu'à la fin de la partie, vous gagnerez aux côtés du vainqueur.
 
@@ -179,7 +178,7 @@ Terroriste : Vous gagnez en solo en vous faisant tuer APRÈS avoir terminé tout
 
 Chackal : Le Chacal doit tuer tous les coéquipiers, imposteurs et neutres. Le Chacal gagne si tout le monde a été tué et qu'il soit le dernier en vie.
 
-Le Malade : Votre but est d’infecter tous les joueurs vivants en appuyant sur le bouton "Tuer" et en restant coller a eux pendant 3 secondes, la première personne que vous infecterez sera tuer et dès qu'une personne s'approchera du corps elle sera aussi infectée de plus elle pourra aussi infecter d'autre personne en s'approchant tout près d'eux pendant 3 seconde. Et aussi si quelqu'un vous tue vous l'infecterez automatiquement (par contre si vous êtes éjecter vous n'infecterez personne).  Attention, vous ne pouvez infectez seulement que 3 personnes maximun par vous-même ! Vous gagner la partie lorsque que toutes les personnes vivantes sont infectées.
+Le Malade : Votre but est d’infecter tous les joueurs vivants en appuyant sur le bouton "Tuer" et en restant coller à eux pendant 3 secondes, la première personne que vous infecterez sera tuer et dès qu'une personne s'approchera du corps elle sera aussi infectée de plus elle pourra aussi infecter d'autre personne en s'approchant tout près d'eux pendant 3 secondes. Et aussi si quelqu'un vous tue vous l'infecterez automatiquement (par contre si vous êtes éjecter vous n'infecterez personne).  Attention, vous ne pouvez infectez seulement que 3 personnes maximun par vous-même ! Vous gagner la partie lorsque que toutes les personnes vivantes sont infectées.
 
 
 
@@ -187,27 +186,27 @@ POUR CEUX QUI VEULENT INSTALLER LE MOD, voici les étapes que j'ai listés pour 
 
 Si vous voulez installer le mod vous devrez faire les 11 choses suivantes !
 
-de 1 aller sur internet sur le site de gitchub et trouver la page parlant du mod "Town Of Host"
+de 1 aller sur internet sur le site de gitchub (le lien est https://github.com/tukasa0001/TownOfHost) et trouver la page parlant du mod "Town Of Host"
 puis installer la dernière version
 
 de 2 une fois installer vous devrez aller sur l'application Steam et avoir among us d'acheté
 
-de 3 vous devrez aller dans les fichiers locaux du jeu et les copier coller dans les fichiers du mod
+de 3 vous devrez aller dans les fichiers locaux du jeu et les copier coller dans le dossier du mod TownOfHost
 
 de 4 pour pouvoir ouvir among us vous devrez extraire touts les fichier pour le rend accessible
 
 de 5 si vous vouler jouer avec d'autre français je vous conseille de traduire le mod
 
-de 6 pour le traduire créer un fichier qui s'appellera "french" dans le dossier Language
+de 6 pour le traduire créer un fichier qui s'appellera "french.dat" dans le dossier Language
 il apparaitra après avoir lancer among us avec le mod pour la première fois (et pour je ne sais quelle raison mais lors du tout premier démarrage du mod le jeu prendra des plombes à se lancer donc ne vous inquiétez pas si vous trouvez le temps très long).
 
-de 7 vous allez dans le fichier "template_English" et vous sélectionnez tout son contenu
+de 7 vous ouvrez le fichier "template_English.dat" et vous sélectionnez tout son contenu
 et ensuite aller sur google traduction et collé tout pour le traduire en Français
 
-de 8 une fois cela fait vous copier la version traduite dans votre fichier "french"
+de 8 une fois cela fait vous copier la version traduite dans votre fichier "french.dat"
 
 de 9 pour que tout apparaisse en français lorsque que vous lancerez le jeu à nouveaux 
-il faudra aller dans le fichier "french" et TOUT ce qui est avant les deux points ( : )
+il faudra aller dans le fichier "french.dat" et TOUT ce qui est avant les deux points ( : )
 vous devrez le retraduire en ANGLAIS et vous devrez faire cela pour CHAQUE LIGNE
 Mais heureusement la moitié du travaille sera déjà fait par Google traduction
 de plus il faudra ABSOLUMENT enlevez les espaces qui séparent les deux points avec ce qu'il y a avant
