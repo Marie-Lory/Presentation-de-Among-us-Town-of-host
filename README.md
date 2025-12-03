@@ -1,7 +1,7 @@
 # Pésentation de Among us Town-of-host
 Voici le fichier READ ME qui contient une présentation du mod et des rôles modés en français.
 
-INFORMATION IMPORTANTE : Pour utiliser le mod SEUL l'hôte du lobby doit avoir le mod et les autres joueurs pourront aussi utiliser le mod juste en rejoignant le lobby tout simplement !
+INFORMATION IMPORTANTE : Pour utiliser le mod SEUL l'hôte du lobby doit avoir le mod et les autres joueurs pourront aussi utiliser le mod juste en rejoignant le lobby tout simplement ! De plus concernant les dossiers téléchargeables, ils contiennent un fichier french.dat qui correspond à la traduction français que j'ai créer pour utilisé le mod en français. Et aussi il y a 3 autres fichiers qui concernent les messages automatiques (le fichier template), la liste des pseudos bannis lorsque qu'un joueur tente de rejoindre le lobby avec l'un de ces pseudos (le fichier DenyName) et la liste des joueurs bannis que vous ne voulez pas voir dans votre lobby (le fichier BanList et ceux sont les ID des joueurs qui sont banni comme ça même si ils changent de pseudo le mod les reconaîtera a coup sûr ! D'ailleur pour ajouter un joueur dans la Banlist il suffit de le bannir normalement directement dans le jeu.)
 
 Le mod "Town of host" est légal et il provient du site internet de Gitchub et pour l'installer regarde un tuto sur Youtube pour t'aider (ou les étapes que j'ai élaborer tout en bas). 
 
