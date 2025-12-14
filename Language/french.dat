@@ -1,0 +1,4439 @@
+Neutral:Neutre
+Crewmate:coéquipier
+Engineer:Ingénieur
+Scientist:Scientifique
+GuardianAngel:ange gardien
+Impostor:Imposteur
+Shapeshifter:Métamorphe
+BountyHunter:Chasseur de primes
+Mare:Tueur de l'ombre
+FireWorks:Artificier
+SerialKiller:Tueur en série
+ShapeMaster:Maître de la métamorphose
+Vampire:Vampire
+Warlock:Démoniste
+Witch:Sorcière
+Mafia:Mafia
+Puppeteer:Marionnettiste
+TimeThief:Voleur de temps
+Sniper:Tireur d'élite
+EvilTracker:Traqueur maléfique
+Stealth:Ninja
+NekoKabocha:Neko-Kabocha
+EvilHacker:Hacker maléfique
+Penguin:Penguin
+Insider:L'informé maléfique
+Madmate:Fou
+MadGuardian:Gardien fou
+MadSnitch:Vif d'or fou
+SKMadmate:Compagnon fou
+Watcher:Observateur
+Bait:Appât
+Lighter:Lumière
+Mayor:Maire
+SabotageMaster:Maître du sabotage
+Sheriff:Shérif
+Arsonist:Pyroman
+Snitch:Vif d'or
+SpeedBooster:Booster de vitesse
+Doctor:Médecin
+Trapper:Trappeur
+Dictator:Dictateur
+Seer:Voyant
+TimeManager:Gestionnaire de temps
+Jester:Bouffon
+Terrorist:Terroriste
+Executioner:Bourreau
+SchrodingerCat:Chat de Schrödinger
+CSchrodingerCat:Chat de Schrödinger coéquipier
+MSchrodingerCat:Chat de Schrödinger imposteur
+EgoSchrodingerCat:Chat de Schrödinger égoïste
+JSchrodingerCat:Chat de Schrödinger chacal
+Opportunist:Opportuniste
+Egoist:Égoïste
+Lovers:Amoureux
+Jackal:Chacal
+PlagueDoctor:Le malade
+HASFox:Renard
+HASTroll:Troll
+GM:Maître du jeu
+LastImpostor:Dernier imposteur
+Workhorse:Maître des tâches
+CustomRoleTypes.Crewmate:Coéquipier
+CustomRoleTypes.Impostor:Imposteur
+CustomRoleTypes.Neutral:Neutre
+CustomRoleTypes.Madmate:Fou
+TeamCrewmate:équipe Coéquipiers
+TeamImpostor:équipe Imposteurs
+TeamEgoist:Team Egoïste
+TeamJackal:équipe Chackal
+NeutralInfo:Vous avez un rôle solitaire
+BountyHunterInfo:Éliminez votre cible en priorité pour une réduction de temps de kill
+MareInfo:Les ténèbres vous aiderons a tuer
+FireWorksInfo:Faîtes tout péter ! mais à la fin...
+SerialKillerInfo:Libérez votre soif de sang ou mourrez
+ShapeMasterInfo:Changer de forme et confondez-vous avec les autres
+VampireInfo:Mordre et anéantir 
+WarlockInfo:Jetez vos malédictions ou tuer
+WitchInfo:Tuer ou lancez vos sorts
+MafiaInfo:Soutenez votre équipe d'imposteurs 
+BeforeMafiaInfo:Vous ne pouvez pas encore tuer tant que les auters imposteur sont encore en vie
+AfterMafiaInfo:Il est temps de tuer
+PuppeteerInfo:Forcer votre victime à tuer
+TimeThiefInfo:Tuer pour voler le temps de la réunion
+SniperInfo:Tracer votre ligne de tire en vous métamorphosant d'un point A à un point B
+LastImpostorInfo:Vous êtes le dernier d'entre nous
+EvilTrackerInfo:Suivre les autres
+StealthInfo:Tuer tout en aveuglant les autres !
+NekoKabochaInfo:celui qui vous tue mourra aussi !
+EvilHackerInfo:Info:Hackez le système !
+PenguinInfo:attirer pour tuer !
+InsiderInfo:Tuer pour connaître les secrets
+MadmateInfo:Aidez les imposteurs sans vous faire tuer
+BeforeMadmateInfo:Terminez vos tâches pour connaître vos collègues imposteurs
+MadGuardianInfo:Terminez vos tâches et aidez les imposteurs
+MadSnitchInfo:Terminez vos tâches et aidez les imposteurs
+SKMadmateInfo:Vous faites maintenant parti de la Team Imposteurs
+WatcherInfo:Regardez tous les votes
+BaitInfo:Appâtez vos ennemis 
+LighterInfo:Terminer vos tâche pour pouvoir voir dans le noir
+MayorInfo:Votre vote a plus d'influence
+SabotageMasterInfo:Réparez les sabotages plus vite que l'éclair
+SheriffInfo:Tirez sur les imposteurs et non les coéquipiers !
+SnitchInfo:Terminez vos tâches pour trouver les imposteurs
+SpeedBoosterInfo:Augmentez votre vitesse
+DoctorInfo:Regardez les causes de morts pendant les réuinions.
+TrapperInfo:immobilisez vos énnemis !
+DictatorInfo:Décidez qui éjecter mais vous mourerez à la fin de la réunion
+SeerInfo:Vous voyez le moment où quelqu'un meurt avec un flash rouge
+TimeManagerInfo:Effectuez les tâches et prolongez le temps de réunion
+ArsonistInfo:Brûles-les tous !
+JesterInfo:Faites-vous éjecter a tout prix !
+OpportunistInfo:Restez simplement en vie jusqu'à la fin
+SchrodingerCatInfo:Faites-vous tuer et rejoignez l'équipe de votre tueur
+CSchrodingerCatInfo:Vous êtes maintenant sur Team Coéquipier
+MSchrodingerCatInfo:Vous êtes maintenant sur Team Imposteur
+EgoSchrodingerCatInfo:Vous êtes maintenant sur l'équipe Egoïste
+JSchrodingerCatInfo:Vous faites maintenant partie de l'équipe Chackal
+TerroristInfo:Faîtes vous tuez après avoir fini vos tâches
+ExecutionerInfo:Faîtes voter votre cible a tout prix !
+EgoistInfo:Reprenez la victoire aux imposteurs !
+LoversInfo:Vivez ensemble pour toujours, et ensemble en mourant
+JackalInfo:Tuer tout le monde même les autres imposteurs !
+PlagueDoctorInfo :créez vune épidémie !
+HASFoxInfo:Reste en vie coûte que coûte !
+HASTrollInfo:Se faire tuer à tout prix !
+GMInfo:Vous êtes le maître du jeu
+WorkhorseInfo: Vous avez des tâches supplémentaires pour gagner
+BountyHunterInfoLong:(Imposteurs):\nSi vous tuez la cible indiquée, votre prochain temps de recharge sera considérablement réduit.\nSi vous tuez quelqu'un d'autre que votre cible, votre prochain temps de recharge augmentera énormément.\nLa cible change au bout de 60 secondes.
+FireWorksInfoLong:(imposteurs):\nChaque fois que vous vous métamorphosez vous pouvez placer un feu d'artifice invisible ou sous la forme d'une peau de méta.\n Après avoir placé tous les feux d'artifice, vous pouvez toutes les faire exploser lorsque vous vous remétamorphosez UNIQUEMENT si vous devenez le dernier imposteur de votre équipe.\n Après les avoir tous utilisé vous pouvez tuer normalement en appuyant sur "Tuer".\nAufaite pour savoir si vous êtes le dernier imposteur, une iconne ⚠ a gauche de votre pseudo.
+SerialKillerInfoLong:(Imposteurs):\nVous avez un temps de recharge plus court que celui des autres imposteurs, mais vous mourrez si vous ne tuez pas avant la fin de votre temps de recharge de métamorphose.
+ShapeMasterInfoLong:(Imposteurs):\nLe maître de la métamorphose n'a pas de temps de recharge de mutation.\nD'un autre côté, leur durée par défaut de mutation pour les autres est plus courte (par défaut: 10 s).
+MareInfoLong:(Imposteurs):\nVous ne pouvez tuer que pendant que si lumières sont éteintes.\nLorsque vous tuez, votre prochain temps de recharge sera réduit.\nPendant que les lumières sont éteintent, vous pouvez vous déplacer plus rapidement, mais votre nom sera également affiché en rouge pendant le sabotage et tout le monde pourra le voir.\nFaite bien attention à rester seul avec votre victime.
+VampireInfoLong:(Imposteurs):\nVous pouvez effectuer des éliminations différées en mordant les autres.\n(Les joueurs mordus mourront après la fin du délai ou au moment où une réunion est convoquée avant cette date.)\nSi vous mordez un [Appât], il n'y a pas de délai et vous êtes obligé de vous signaler vous-même.
+WarlockInfoLong:(Imposteurs):\nLes démonistes peuvent maudire un autre joueur en appuyant sur "Tuer" avant de se métamorphoser.\nLorsqu'ils se métamorphosent après avoir maudit, le joueur à côté du maudit est tué, quelle que soit la distance à laquelle il se trouve.\nPendant la métamorphose, vous pouvez tuer normalement.\nAussi, un seul joueur peut être maudit par tour.
+WitchInfoLong:(Imposteurs):nVous pouvez alterner entre « Tuer » et « Sort » par en allant dans un conduit.\nLorsque vous tuez avec votre « Sort », vous ensorcelez un joueur et vous ne pouvez pas ensorcelez le même joueur 2 fois.\nLes joueurs qui ont été ensorcelés ont une marque de † affichée à côté d’eux et doivent voter contre la sorcière lors de cette réunion, sinon ils mourront après la fin de la réunion.
+MafiaInfoLong:(Imposteurs):\nAu début du jeu, vous ne pouvez pas tuer même si vous verrez le bouton "Tuer".\nAprès la mort de vos compagnons imposteurs, vous pourrez tuer.
+PuppeteerInfoLong:(Imposteurs):\nAu lieu de tuer quelqu'un, "tuer" peut forcer un joueur à tuer le prochain non-imposteur qu'il approche.\nSi le joueur que votre marionnette a tué a une capacité (par exemple l'Appât) elle s'active à sa mort, l'effet atterrira sur la marionnette à la place de vous-même.\nVous ne pouvez pas effectuer une mise à mort normale seul votre victime le peut.
+TimeThiefInfoLong:(imposteurs):\nChaque meurtre réduit le temps de discussion et de vote en réunion.\nSi vous êtes éliminé ou tué, le temps perdu revient aux réunions.
+SniperInfoLong:(Imposteurs):\nVous pouvez tirer sur les joueurs de loin et à travers les murs.\nVotre ligne de tire continue comme une ligne droite dans la direction de l'endroit où vous êtes.\n Pour faire votre ligne de tire vous devez vous métamorphoser une fois pour faire le début de votre ligne de tire et ensuite en vous déplaçant vers la direction que vous voulez, vous vous métamorphoser une deuxième fois pour que finir votre ligne de tire et toutes les personnes qui se trouve sur votre ligne de tire seront tués \nVous ne pouvez pas tuer normalement avec le bouton "Tuer" tout de suite tant que vous n'avez pas utilisé toutes vos munitions.\nVotre ligne de tire s'étant sur toute la map dans la direction de votre ligne de tire.
+EvilTrackerInfoLong:(Imposteurs):\nVous pouvez voir où se trouvent les autres imposteurs de votre équipe.\nVous verrez des flèches pointant vers les autres imposteurs et vers toute personne en qui vous vous métamorphosez.\nVous verrez un "Flash mortel" lorsque vos collègues imposteurs tuent quelqu'un.\nVous pouvez aussi créer un acolyte fou si les paramètres vous le permet en vous métamorphosant et la personne la plus proche de vous deviendra un acolypte fou..
+StealthInfoLong:(Imposteurs):\nLorsque le ninja tue, les joueurs dans la même pièce sont aveuglés pendant un court instant.
+NekoKabochaInfoLong:(Imposteurs):\nLe Neko-Kabocha tue automatiquement celui qui l'a tué et en cas d'expulsion lors d'une réunion il peut choisir une victime qui sera aussi expulsé contre son gré.
+EvilHackerInfoLong:(Imposteurs):\nLors des réunions, vous pouvez obtenir des informations a propos de \nLa position de vos collègues imposteurs \nLe lieu et le nombre de cadavre tué (marqué avec le symbole ★) de plus vous pourrez voir un kill flash rouge qui vous avertirera qu'un meurtre a eu lieu.
+PenguinInfoLong:(Imposteurs):\nLorsque vous appuez sur le bouton "Tuer" votre cible sera automatiquement attirer vers vous jusqu'à ce que vous l'éliminer en réapuyant sur le bouton "Tuer" ou en attendant 10 secondes avant que la cible meurt toute seule.En faisant glisser.
+InsiderInfoLong:(Imposteurs):\nLorsque que vous tuer une personne, vous pouvez connaître le rôle qu'il avait lors de la prochaine réunion sur sa bannière de joueur mort et donc vous saurez si vous avez tué une personne avec un rôle important tel que le Shérif, le Maire, le Vif d'or ou le Chacal par exemple.
+MadmateInfoLong:(Imposteurs):\nVous êtes un coéquipier, mais vous agissez en tant qu'allié des imposteurs.\nVous et les imposteurs ne pouvez pas vous reconnaître.\nVous pouvez vous défouler et vous n'avez aucune tâche.
+MadGuardianInfoLong:(Imposteurs):\nVous êtes un coéquipier, mais vous agissez en tant qu'allié des imposteurs.\nVous et les imposteurs ne pouvez pas vous reconnaître.\nUne fois que vous aurez terminé vos tâches, vous serez protégé contre les attaques d'imposteurs et vous pourrez tuer et gagner avec les autres imposteurs.
+MadSnitchInfoLong:(Imposteurs):\nVous êtes un coéquipier, mais vous agissez en tant qu'allié des imposteurs.\nVous et les imposteurs ne pouvez pas vous reconnaître, mais une fois que vous avez terminé toutes les tâches, vous pouvez voir qui sont les imposteurs mais vous ne pouvez pas tuer.\nPour gagner il faut espérer que vos collègues imposteurs gagnent la partie.
+SKMadmateInfoLong:(Imposteurs):\nLe joueur le plus proche d'un imposteur lorsqu'il se métamorphose deviendra un Acolyte Fou.\nVous n'avez aucune tâche et vous devrez aider les imposteurs.
+WatcherInfoLong:(Rôle suplémentaire):\nVous pouvez voir les votes de tout le monde même si le vote anonyme est activé et en plus si vous regardez bien les votes, vous pourrez savoir qui a le rôle du Maire grâce à ses multiples votes et vous pourrez donc le safe.\nDe plus vous avez un signe "W" en violet a côté de votre pseudo.
+BaitInfoLong:(Coéquipier):\nLorsque vous êtes tué, vous forcez votre tueur à se signaler immédiatement.
+LighterInfoLong:(Coéquipier):\nUne fois que vous aurez terminé toutes vos tâches, vous pourrez mieux voir dans le noir.
+MayorInfoLong:(Coéquipier):\nVous avez plusieurs votes, qui iront tous à la personne que vous votez ou ignorez et en plus si vous allez dans un conduit cela activera une réunion d'urgence si les paramètres vous le permet.
+SabotageMasterInfoLong:(Coéquipiers):\nVous pouvez réparer vous-même les réacteurs, l'O2 et les communications.\nLes lumières peuvent être réparées d'une simple pression sur un interrupteur.\nL'ouverture d'une porte (sur Polus, Airship et Fungle) ouvrira toutes les portes de la pièce.
+SheriffInfoLong:(Coéquipier):\nNayez pas peur c'est normal que lors de l'attribution des rôles vous êtes vu comme imposteur mais vous êtes bel et bien un coéquipier ! \nVous devez tuer tous les imposteurs !\nAttention, si vous essayez de tuer un coéquipier vous mourrerez à sa place ! Donc faîte attention. Vous n'avez aucune tâche et vous ne pouvez pas entrer dans un conduit car vous êtes à la base un allié des coéquipiers.
+SnitchInfoLong:(Coéquipier):\nUne fois que vous avez terminé toutes vos tâches, les noms des imposteurs vous seront affichés en couleur.\nLorsqu'il ne vous reste plus qu'une tâche, une marque ★ s'affichera à côté de votre nom et vous serez exposé aux imposteurs et ils pourront vous traquer donc il faudra agir vite ! \nVous devrez les dénoncés et pour vous aider, vous pouvez dire aux autres coéquipiers que vous êtes le Vif d'or.
+LoversInfoLong:(Neutres),\nLes Amoureux est un rôle Neutre supplémentaire attribué à 2 joueurs aléatoires en plus de leurs rôles définis.\nSi vous et votre amoureux survivez tous les deux jusqu'à la fin, vous gagnerez tous les deux.\nSi l'un de vous meurt, l'autre mourrera aussi.\nSi les coéquipiers obtiennent une victoire de tâche, vous perdrez tous les deux.
+SpeedBoosterInfoLong:(Coéquipier):\nUne fois que vous avez terminé vos tâches, vous receverez un boost de vitesse impressionant.
+DoctorInfoLong:(Coéquipier):\nVous pouvez voir la cause du décès de tous les joueurs dans le tableau de réuinion.\nDe plus, vous pouvez accéder aux signes vitaux où que vous soyez pendant que vous avez encore de la batterie.
+TrapperInfoLong:(Coéquipiers):\nLorsque vous êtes tué, vous immobilisez votre tueur pendant un court instant.
+DictatorInfoLong:(Coéquipier):\nLorsque vous votez pour quelqu'un, la réunion se terminera sur place et le joueur que vous avez voté sera éjecté.\nLorsque vous votez pour quelqu'un lors d'une réunion, vous brisez de force cette réunion et exilez le joueur pour lequel vous avez voter.
+SeerInfoLong:(Coéquipier):\nChaque fois que quelqu'un meurt, vous verrez un "kill flash" rouge.
+TimeManagerInfoLong:(Coéquipier):\nPlus vous effectuez de tâches, plus la durée des réunions augmentera. Lorsque vous mourrez, l'heure de la réunion sera restaurée.
+ArsonistInfoLong:(Imposteur solitaire):\nLorsque vous utilisez le bouton de mise à mort, vous arrosez votre cible d'essence.\nAprès avoir arrosé tous les joueurs vivants avec la marque ▲ en restant bien coller a votre cible pour avoir le triangle orange remplit, vous pourrez mettre tout le monde en feu et gagner en allant dans un conduit par contre avant tout cela vous ne pourez pas aller dans un conduit.\n Attention s'il n'y a plus d'imposteur en vie a part vous, vous perdrez directement donc agissez vite !
+JesterInfoLong:(Neutre):\nVous remportez la victoire en étant éjecter lors d'une réunion.\nSi la partie se termine sans que vous soyez éjecter, ou si vous êtes tué, vous perdez.
+TerroristInfoLong:(Neutre):\nVous gagnez en solo en vous faisant tuer APRÈS avoir terminé toutes vos tâches.\nSe faire éjecter compte aussi comme tué.\nVous êtes aussi un ingénieur.
+ExecutionerInfoLong:(Neutre):\nVous êtes assigné à une cible qui a une marque de diamant que vous seul pouvez voir à côté de son nom.\nVous gagnez en solo en faisant voter cette cible. Si votre cible est tuée, votre propre rôle se transforme en quelque chose d’autre.\nSi votre cible est le Bouffon, vous gagnerez aux côtés du Bouffon.
+SchrodingerCatInfoLong:(Neutre):\nLorsque quelqu'un essaye de vous tuer, vous ne mourrez pas et vous obtenez le role de votre tueur. Parcontre vous êtes protéger que d'un kill, après ça n'importe quel impo peut vous tuer. \nPar exemple : Si un shérif vous tue, vous deviendrez un coéquipier simple.\n Si un imposteur vous tue, vous deviendrez un imposteur simple mais vous ne pouvez pas tuer malheuresement et les autres impo de votre équipe peuvent quand même vous tuer.\n Si un égoïste vous tue, vous deviendrez aussi un égoïste.\n Si un chacal vous tue, vous deviendrez aussi un chacal
+CSchrodingerCatInfoLong:(Coéquipier):\nVous faites maintenant partie de la Team Coéquipier et vous devez finir vos taches.
+MSchrodingerCatInfoLong:(Imposteur):\nVous faites maintenant partie de la Team Impostor et malheuresement vous ne pouvez pas tuer.\nDe plus les autres impo de votre équipe peuvent quand même vous tuer, donc essayer de restez en vie et croisez les doigts pour que votre équipe gagne la partie.
+EgoSchrodingerCatInfoLong:(Partenaire de l'Egoïste):\nVous faites maintenant partie de l'équipe Egoist et vous devez gagner sans la team imposteur.
+JSchrodingerCatInfoLong:(Partenaire du Chacal):\nVous faites maintenant partie de l'équipe chacal et vous devez tuer tout le monde même les autres imposteurs
+OpportunistInfoLong:(Neutre):\nTant que vous êtes en vie jusqu'à la fin de la partie, vous gagnerez aux côtés du vainqueur.
+EgoistInfoLong:(Imposteur traitre):\nVous êtes un traitre déguisé en un membre de votre équipe imposteur et lorsque tous les imposteurs sont morts (ceux de votre équipe et les autres imposteurs solitaires), vous remportez la victoire en solo en étant la dernière personne en vie.\nVous et votre équipe d'imposteurs savez qui vous êtes mais attention vos collègues peuvent voir votre rôle (car votre pseudo seras en violet et pas en rouge) et si ils connaissent votre rôle il sera plus compliquer des les éjecters, vous ne pouvez pas vous entretuer, donc essayer de les éjecters du mieux que vous pouvez (en vous métamorphosant en eux par exemple) et le plus tôt possible.\n Attention si la partie se termine alors qu'il reste au moins un membre de votre équipe d'imposteur malheuresement vous perdez !
+JackalInfoLong:(Imposteur solitaire):\nLe Chacal doit tuer tous les coéquipiers, imposteurs et neutres.\nLe Chacal gagne si tout le monde a été tué et qu'il soit le dernier en vie.
+PlagueDoctorInfoLong:(Imposteur solitaire):\nVotre but est d’infecter tous les joueurs vivants en appuyant sur le bouton "Tuer" et en restant coller a eux pendant 3 secondes, la première personne que vous infecterez sera tuer et dès qu'une personne s'approchera du corps elle sera aussi infectée de plus elle pourra aussi infecter d'autre personne en s'approchant tout près d'eux pendant 3 seconde. Et aussi si quelqu'un vous tue vous l'infecterez automatiquement (par contre si vous êtes éjecter vous n'infecterez personne)\n Attention, vous ne pouvez infectez seulement que 3 personnes maximun par vous-même !\nVous gagner la partie lorsque que toutes les personnes vivantes sont infectées.
+HASFoxInfoLong:(Rôle cache-cache):\nIls gagnent la partie avec d'autres Rôles (sauf Troll) uniquement s'ils sont vivants à la fin de la partie.
+HASTrollInfoLong:(Rôle cahe-cache):\nVous gagnez en solo lorsque vous êtes tué. Dans ce cas, même si le Renard est vivant, il perdra.
+GMInfoLong:(Rôle spécifique à l'hôte):\nLe Maître du jeu (GM en abréviation anglaise) est un spectateur.\nSa présence n'a aucun effet sur le jeu, et tous les joueurs savent qui est le maître du jeu. Le rôle sera attribué à l'hôte, qui deviendra automatiquement un fantôme au début du jeu et pourra donc aider les personnes vivantes a mieux comprendre le fonctionnement du mod.
+LastImpostorInfoLong:(Rôle suplémentaire):\nUn role suplémentaire est accordé au dernier membre de l'équipe imposteur restant et obtient la marque ⚠ pour le prévenir qu'il est le dernier de son équipe.\nLe temps de recharge de kill est réduit de moitier.\nNon accordé aux chasseurs de primes, aux tueurs en série et aux vampires.\n De plus ce rôle enlève les capaictés de certains rôles imposteurs comme la Sorcière, le Marrionnetiste, l'Artificier, le Démoniste, le Tireur d'élite et le Tueur de l'ombre
+WorkhorseInfoLong:(Rôle suplémentaire):\nUn role suplémentaire est accordé au premier coéquipier vivant sans rôle modé terminant toutes ses tâches.\nVous obtenez des tâches supplémentaires nécessaires pour que vous et les coéquipiers gagnent instantanément.\nNon accordé aux rôles sans tâches ou avec des capacités déclenchées par la fin Tâches.
+Basis:Vous avez les capacités du rôle
+HideAndSeek:Cache-cache
+NoGameEnd:Pas de fin de jeu
+SyncButtonMode:bouton de synchronisation
+RandomMapsMode:Mode map aléatoires
+SyncedButtonCount:nombre maximal de boutons autorisés
+AddedTheSkeld:Inclure TheSkeld
+AddedMIRAHQ:Inclure MIRAHQ
+AddedPolus:Inclure Polus
+AddedTheAirShip:Inclure TheAirShip
+AllAliveMeeting:Réunion quand personne n'est mort
+AllAliveMeetingTime:Heure de réunion quand personne n'est mort
+AdditionalEmergencyCooldown:temps de recharge d'urgence supplémentaire
+AdditionalEmergencyCooldownThreshold:nombre de joueurs vivants appliqués
+AdditionalEmergencyCooldownTime:temps de recharge supplémentaire
+LadderDeath:Chute des échelles
+LadderDeathChance:Chance de chute mortelle
+DisableTasks: désactiver les tâches
+DisableSwipeCardTask:Désactiver les tâches Glisser carte
+DisableSubmitScanTask:Désactiver les tâches Envoyer scan
+DisableUnlockSafeTask:Désactiver les tâches Déverrouiller le coffre-fort
+DisableUploadDataTask:Désactiver les tâches Téléchargement
+DisableStartReactorTask:Désactiver les tâches Démarrer réacteur
+DisableResetBreakerTask:Désactiver les tâches Disjoncteur de réinitialisation
+DisableFixWeatherNodeTask:Désactiver les tâches de correction des nœuds météorologiques
+SuffixMode:Suffixe
+SuffixMode.None:Aucun
+SuffixMode.Version:Version
+SuffixMode.Streaming:Streaming
+SuffixMode.Recording:Enregistrement
+SuffixMode.RoomHost: Hôte de la salle
+SuffixMode.OriginalName:Nom original
+ColorNameMode: mode de nom de couleur
+FixFirstKillCooldown: normaliser le temps de recharge du premier kill
+GhostCanSeeOtherRoles: les fantômes peuvent voir d'autres rôles
+GhostCanSeeOtherTasks: Les fantômes peuvent voir les tâches
+GhostCanSeeOtherVotes: les fantômes peuvent voir les votes
+GhostCanSeeDeathReason:les famtômes peuvent voir la cause des morts
+GhostIgnoreTasks: fantômes exemptés de tâches
+DisableTaskWin: Désactiver la tâche Win
+HideGameSettings:Masquer les paramètres du jeu
+RoleOptions: options de rôle
+ModeOptions: Options de mode
+ForceJapanese: Forcer le japonais
+AutoDisplayLastResult: affichage automatique du dernier résultat
+AutoDisplayKillLog: affichage automatique du KillLog
+VoteMode: mode de vote
+WhenSkipVote: Quand sauter le vote
+WhenSkipVoteIgnoreFirstMeeting: Ignorer la première réunion
+WhenSkipVoteIgnoreNoDeadBody: Ignorer lorsqu'il n'y a pas de corps mort
+WhenSkipVoteIgnoreEmergency: Ignorer le bouton d'urgence
+WhenNonVote: Lorsqu'aucun vote
+Default: Par défaut
+Suicide:Suicide
+Selfvote: auto-vote
+Skip: passer
+WhenTie: vote à égalité
+TieMode.Default: par défaut
+TieMode.All: éjecter tous
+TieMode.Random: éjecter au hasard
+DisableDevices: Désactiver les périphériques
+DisableFungleDevices:Désactiver les périphériques Skeld
+DisableMiraHQDevices:Désactiver le périphérique MiraHQ
+DisablePolusDevices: Désactiver l'appareil Polus
+DisableAirshipDevices: Désactiver le périphérique de Airship
+DisableFungleDevices:Désactiver le périphérique de Fungle
+DisableSkeldAdmin: Désactiver l'administrateur
+DisableMiraHQAdmin: Désactiver l'administrateur
+DisablePolusAdmin: Désactiver l'administrateur
+DisableAirshipCockpitAdmin: Désactiver l'administrateur du cockpit
+DisableAirshipRecordsAdmin: Désactiver l'administration des enregistrements
+DisableSkeldCamera: Désactiver la caméra
+DisablePolusCamera: Désactiver la caméra
+DisableAirshipCamera: Désactiver la caméra
+DisableMiraHQDoorLog:Désactiver le DoorLog
+DisablePolusVital:Désactiver Vital
+DisableAirshipVital:Désactiver Vital
+DisableFungleVital:Désactiver Vital
+IgnoreConditions: Ignorer les conditions
+IgnoreImpostors: Ignorer les imposteurs
+IgnoreMadmates: ignorer les fous
+IgnoreNeutrals: Ignorer les neutres
+IgnoreCrewmates: Ignorer les coéquipiers
+IgnoreAfterAnyoneDied: Ignorer après la mort de quelqu'un
+LightsOutSpecialSettings: Corriger les paramètres spéciaux des lumières
+DisableAirshipViewingDeckLightsPanel: Désactiver le panneau d'affichage des lumières du pont (Airship)
+DisableAirshipGapRoomLightsPanel: Désactiver le panneau d'éclairage de la pièce Gap (Airship)
+DisableAirshipCargoLightsPanel: Désactiver le panneau Cargo Lights (Airship)
+BlockDisturbancesToSwitches: Bloque les interrupteurs lorsqu'ils sont en place
+DisableAirshipMovingPlatform: Désactiver la plateforme mobile (Airship)
+AirShipVariableElectrical: Variable Electrical(AirShip)
+ResetDoorsEveryTurns: Réinitialiser les portes après une rencontre(Airship/Polus/Fungle)
+DoorsResetMode: Reset Mode
+AllOpen: Toutes ouvertes
+AllClosed: Toutes fermées
+RandomByDoor: Aléatoire par porte
+DisableFungleSporeTrigger: Empêche le déclenchement des spores (Fungle)
+MapModification:Modification des maps
+RandomSpawn: apparition aléatoire
+AirshipAdditionalSpawn: apparition supplémentaire (Airship)
+CommsCamouflage: camouflage pendant les communications
+EnableDebugMode:Activer le mode de débogage
+ChangeNameToRoleInfo:Afficher les descriptions de rôle au client non modifié
+RoleAssigningAlgorithm:algorithme d’attribution de rôle
+RoleAssigningAlgorithm.Default:Par défaut
+RoleAssigningAlgorithm.NetRandom:.NET System.Random
+RoleAssigningAlgorithm.HashRandom:HashRandom
+RoleAssigningAlgorithm.Xorshift:Xorshift
+AirShipVariableElectrical:Variable électrique (AirShip)
+ApplyDenyNameList:Appliquer la liste des refus de noms
+KickPlayerFriendCodeNotExist: expulser les joueurs dont le code ami n'existe pas
+ApplyBanList:Appliquer la liste d'interdiction
+FixSpawnPacketSize:(Expérimental) Uniquement si la déconnexion se produit avec plus de 8 personnes.
+HideAndSeekInfo:Hide and Seek:\nAucune réunion d'urgence. Les coéquipiers (bleu) ne peuvent gagner qu'en terminant des tâches\net les imposteurs (rouge) ne peuvent gagner qu'en tuant tous les coéquipiers.
+StandardHASInfo:Cache-cache avec rôles:\nAucune réunion d'urgence. Les coéquipiers ne peuvent gagner qu'en terminant des tâches et les imposteurs ne peuvent gagner qu'en tuant tous les coéquipiers.
+NEndInfo:NoGameEnd:\nUn mode de débogage sans victoire. La seule façon de terminer le jeu est d'avoir l'hôte SHIFT+L+ENTER.
+SyncButtonModeInfo: SyncButtonMode:\nUn mode où tous les joueurs partagent le nombre total de boutons disponibles.
+SabotageTimeControlInfo: Contrôle de la durée du sabotage:\nPeut modifier la durée de certains sabotages.
+RandomMapsModeInfo:RandomMapsMode:\nUn mode dans lequel la carte change de manière aléatoire.
+DisableDevicesInfo:DisableDevices:\nPlusieurs appareils peuvent être désactivés.
+Cooldown: temps de recharge
+KillCooldown: Temps de recharge pour tuer
+CanVent: peut se cacher dans un conduit
+ImpostorVision: vision d'imposteur
+CanUseSabotage: peut saboter
+CanCreateMadmate: Peut créer un Acolyte fou
+DoubleTriggerThreashould:Double déclencheur Seuil
+AssignMode:Assigner un mode d'Algorithme
+AssignAlgorithm.Fixed:Fixed
+AssignAlgorithm.Random:Random
+RoleTypeMin:Minimum %roleType% Roles
+RoleTypeMax:Maximum %roleType% Roles
+%roleTypes%Maximum:Joueurs maximum dans %roleTypes%
+FixedRole:Rôle fixé
+Role:Rôle
+BountyTargetChangeTime: temps jusqu'à la permutation des cibles
+BountySuccessKillCooldown: temps de recharge après avoir tué la cible
+BountyFailureKillCooldown: temps de recharge après avoir tué une autre personne
+BountyShowTargetArrow: le chasseur de primes montre une flèche pointant vers la cible
+DefaultShapeshiftCooldown: temps de recharge de métamorphose par défaut
+VampireKillDelay: Délai de mise à mort (S)
+MareAddSpeedInLightsOut:Vitesse supplémentaire pendant les lumières éteintes
+MareKillCooldownInLightsOut:Temps de recharge pour tuer pendant les lumières éteintes
+SabotageMasterSkillLimit: nombre d'utilisations de capacités (hors portes)
+CanMakeMadmateCount: Comptage maximal de l'acolyte fou
+MadSnitchTasks: Tâches de Mad Snitch
+MadSnitchCanAlsoBeExposedToImpostor: Connu des imposteurs
+MadSnitchTaskTrigger:Nombre de tâches avant activation de la capacité
+MadGuardianCanSeeWhoTriedToKill: peut voir la tentative de meurtre
+MadmateCanFixLightsOut: les rôles fous peuvent réparer les lumières
+MadmateCanFixComms: les rôles fous peuvent réparer les communications
+MadmateHasImpostorVision: les rôles fous ont une vision d'imposteur
+MadmateCanSeeKillFlash: les rôles fous peuvent voir "Kill Flash"
+MadmateCanSeeOtherVotes:Les rôles fous peuvent voir les votes
+MadmateCanSeeDeathReason: les fous peuvent voir la cause du décès
+MadmateExileCrewmate: Les fous se vengent d'un coéquipier lorsqu'il est exilé
+MadmateVentCooldown: temps de recharge de la ventilation des rôles fous
+MadmateVentMaxTime: durée maximale de ventilation des rôles fous
+LighterMaxVision:Vision maximun
+LighterTaskCompletedVision: vision accrue
+LighterTriggerType:condition d'activation de la capacité
+LighterTaskTrigger:Nombre de tâches jusqu'à l'activation du boost
+LighterTaskCompletedDisableLightOut:Ignorer l'effet des lumières sabottées
+SabotageMasterFixesDoors: peut ouvrir plusieurs portes
+SabotageMasterFixesReactors: peut réparer les deux réacteurs
+SabotageMasterFixesOxygens: Peut réparer les deux O2
+SabotageMasterFixesCommunications: peut réparer les deux communications dans MIRA HQ
+SabotageMasterFixesElectrical: Peut réparer les lumières avec un seul interrupteur
+SheriffCanKill%role%: Peut tuer %role%
+SheriffCanKillNeutrals: Peut tuer les neutres
+SheriffCanKillAll:<color=#00fefe>Tous activés</color>
+SheriffCanKillSeparately:Paramètres individuels
+In%team%:(Équipe %équipe%)
+SheriffMisfireKillsTarget:Un tir raté tue la cible
+SheriffShotLimit: Munitions
+SheriffCanKillAllAlive: Peut tuer tous les vivants
+DoctorTaskCompletedBatteryCharge: Durée de la batterie
+SnitchEnableTargetArrow: peut voir la flèche vers la cible
+SnitchCanGetArrowColor: Peut voir la flèche colorée de l'équipe cible
+SnitchCanFindNeutralKiller: peut trouver des tueurs neutres
+SnitchRemainingTaskFound:Tâches restantes à trouver
+SpeedBoosterUpSpeed: accélération aléatoire de la vitesse du joueur
+SpeedBoosterTaskTrigger: Tâches jusqu'à l'activation du boost
+MayorAdditionalVote:Comptage des votes supplémentaires
+MayorHasPortableButton: le maire a un bouton d'urgence mobile
+MayorNumOfUseButton: nombre de boutons d'urgence mobiles
+CanBeforeSchrodingerCatWinTheCrewmate: peut gagner avec ses coéquipiers s'il n'y a pas d'équipe
+SchrodingerCatExiledTeamChanges: l'équipe change lorsqu'elle est éjectée
+SchrodingerCatCanSeeKillableTeammate:Peut voir un coéquipier tuable
+ExecutionerCanTargetImpostor: peut cibler des imposteurs
+ExecutionerCanTargetNeutralKiller: Peut cibler les neutres
+ExecutionerChangeRolesAfterTargetKilled: le rôle change lorsque la cible meurt
+SerialKillerLimit: temps avant le suicide
+ArsonistDouseTime: temps jusqu'à ce que l'extinction soit terminée
+CanTerroristSuicideWin: peut gagner en se suicidant
+ShapeMasterShapeshiftDuration: durée de la métamorphose
+FireWorksMaxCount: nombre de feux d'artifice
+FireWorksRadius: rayon d'explosion du feu d'artifice
+SniperBulletCount: Munitions
+SniperPrecisionShooting: tir de précision
+SniperAimAssist: aide à la visée
+SniperAimAssistOneshot:Aide à un coup
+NumberOfLovers: nombre d'amoureux (paires)
+TimeThiefDecreaseMeetingTime:Temps volé par kill
+TimeThiefLowerLimitVotingTime: temps de vote minimum
+TimeThiefReturnStolenTimeUponDeath:Retour du temps volé aux réunionx après la mort
+EvilTrackerCanSeeKillFlash: peut voir "Kill Flash" pour les imposteurs tués
+EvilTrackerTargetMode:peut définir une cible
+EvilTrackerTargetMode.Never:Jamais
+EvilTrackerTargetMode.OnceInGame:Une fois dans le jeu
+EvilTrackerTargetMode.EveryMeeting:Toutes les réunions
+EvilTrackerTargetMode.Always:Toujours
+EvilTrackerResetTargetAfterMeeting: peut réinitialiser la cible après la réunion
+EvilTrackerCanSeeLastRoomInMeeting: peut voir la dernière salle de la cible en réunion
+KillFlashDuration:Durée « Kill Flash »
+WitchModeSwitchAction: action de changement de mode
+TriggerKill: tuer
+TriggerVent: Conduit
+TimeManagerIncreaseMeetingTime: Augmenter le temps de vote
+TimeManagerLimitMeetingTime: Augmenter la limite
+TriggerDouble: Double-clic
+AssignOnlyTo%role%:Attribuer uniquement à %role%
+WorkhorseNumLongTasks: Tâches longues supplémentaires
+WorkhorseNumShortTasks: tâches courtes supplémentaires
+StealthExcludeImpostors:Exclure les imposteurs de l'aveuglement
+StealthDarkenDuration:Durée de l'aveuglement
+NekoKabochaImpostorsGetRevenged:Les imposteurs sont réprimés
+NekoKabochaMadmatesGetRevenged:Les fous se font rappeler à l'ordre
+NekoKabochaRevengeOnExile:La vengeance en cas d'exil
+EvilHackerCanSeeDeadMark:Peut voir l'emplacement des cadavres
+EvilHackerCanSeeImpostorMark:Peut voir l'emplacement des autres imposteurs
+EvilHackerCanSeeKillFlash:Peut voir ''Kill Flash''.
+EvilHackerCanSeeMurderRoom:Peut voir l'emplacement du meurtre
+PenguinAbductTimerLimit:Faire traîner le temps
+PenguinMeetingKill:Tuer si la réunion commence pendant la glissade
+InsiderCanSeeImpostorAbilities:Peut voir les capacités de l'imposteur
+InsiderCanSeeAllGhostsRoles:Peut voir les rôles de tous les fantômes
+InsiderCanSeeMadmates:Peut voir les fous
+InsiderKillCountToSeeMadmates:Nombre de morts pour voir les fous
+PlagueDoctorInfectLimit:Nombre d'infections
+PlagueDoctorInfectWhenKilled:Infecter quand on est tué
+PlagueDoctorInfectTime:Temps d'infection
+PlagueDoctorInfectDistance:Distance d'infection
+PlagueDoctorInfectInactiveTime:temps d'infection inactive
+PlagueDoctorCanInfectSelf:Peut s'infecter soi-même
+PlagueDoctorCanInfectVent:Peut infecter les conduits
+Junction:Jonction
+OfficeLeft:Bureau gauche
+OfficeRight:Office Right
+Rocket:Rocket
+Toilette:Toilette
+NapRoom:Salle de sieste
+Bonfire:Bonfire
+JungleTop:Haut de la jungle
+JungleBottom:Fond de la jungle
+Precipice:Précipice
+TaskProgressRate:Progression de la tâche
+TaskCount:Nombre de tâches
+HideAndSeekOptions: paramètres de masquage et de recherche
+AllowCloseDoors: autoriser le sabotage des portes
+TrapperBlockMoveTime: durée de capture
+HideAndSeekWaitingTime: Temps d'attente de l'imposteur (S)
+IgnoreVent: Désactiver les évents
+HideAndSeekRoles:rôles de cache-cache
+DeathReason.Kill:Tuer
+DeathReason.Vote:éjecté
+DécèsRaison.Suicide:Suicide
+DeathReason.Spell:Sortilège
+DeathReason.Bite:Mordu
+DeathReason.FollowingSuicide:Suicide des amoureux
+DeathReason.Bombed:Explosion
+DeathReason.Misfire:Mauvaise cible
+DeathReason.Torched:Incendié
+DeathReason.Sniped:Snipé
+DeathReason.Execution:Karma
+DeathReason.Disconnected:Déconnecté
+DeathReason.Fall:Tombé des échelles
+DeathReason.Revenge:Vengeance
+DeathReason.etc:Rôle spectateur
+Alive:vivant
+Win: Gagnant
+Last-:⚠ 
+SabotageTimeControl:contrôle de la durée du sabotage
+PolusReactorTimeLimit:durée du réacteur Polus
+AirshipReactorTimeLimit:durée du réacteur de Airship
+FungleReactorTimeLimit:Durée du réacteur de Fungle
+FungleMushroomMixupDuration:Durée du sabotage camouflage sur Fungle
+ModifySabotageCooldown:Contrôle de la durée du récupération du sabotage
+SabotageCooldown:Récupération du sabotage
+CommandList:Liste de commandes:
+Command.winner:afficher les gagnants
+Command.lastresult:afficher le résultat de la correspondance
+Command.rename:modifier le nom d'hôte
+Command.now:Afficher les paramètres actifs
+Command.h_now:Afficher la description des paramètres actifs
+Command.h_roles:<RoleName> - Afficher la description du rôle
+Command.h_addons:<Nom des modules complémentaires> - Afficher la description du module complémentaire
+Command.h_modes:<ModeName> - Description du mode d'affichage
+Command.dump:sortie du journal sur le bureau
+Command.h_args:Args disponibles (tronqués)
+CantUse.lastresult: Impossible d'utiliser /lastresult pendant une partie.
+CantUse.killlog: impossible d'utiliser /killlog pendant une partie.
+Message.SetToSeconds: défini sur {0} secondes.
+Message.MessageWaitHelp: spécifiez le premier argument en secondes.
+Message.TemplateNotFoundHost: aucun message correspondant à "{0}" n'a été trouvé.\nVeuillez ajouter à template.txt 
+Message.TemplateNotFoundClient: aucun message correspondant à "{0}" n'a été trouvé.
+Message.SyncButtonLeft: Il reste {0} boutons d'urgence supplémentaires
+Message.Executed:{0} s'est fait karma bien comme il faut en se fesant tuer d'un seul coup par l'hôte lui-même.
+Message.HideGameSettings:Les paramètres du jeu ont été masqués par l'hôte.
+Message.NoDescription:Aucune description.
+Message.KickedByDenyName: {0} a été expulsé car son nom correspondait à "{1}".
+Message.BanedByBanList: {0} a été banni car il a été banni dans le passé.
+Message.KickedByNoFriendCode: {0} a été expulsé car le code ami n'existe pas.
+Message.AddedPlayerToBanList: {0} a été ajouté à la liste des bannissements.
+Warning.EgoistCannotWin: Egoïste ne peut pas gagner
+Warning.OverrideExiledPlayer: Tous les éjections seront affichées sous forme d'égalité puisque le nombre total d'imposteurs est de 1.
+Warning.InvalidRpc: Kick {0} car un RPC non valide a été reçu.\nVeuillez vérifier qu'aucun mod autre que TOH n'est installé.
+Warning.NoModHost: aucun mod installé sur l'hôte
+Error.MeetingException: Erreur: {0}\r\nVeuillez utiliser SHIFT+M+ENTER pour mettre fin à la réunion
+Error.InvalidRoleAssignment: Erreur: Rôle non valide trouvé pour un joueur lors de l'attribution du rôle ({0})
+Error.SpeedBoosterNullException: erreur: la destination de l'accélération de la vitesse est nulle.\nVeuillez enregistrer le journal et créer un ticket de rapport de bug.
+Error.InvalidColor:Error: Seules les couleurs par défaut sont disponibles.
+ErrorLevel1: des bugs peuvent survenir.
+ErrorLevel2: il s'agit peut-être d'un bug.
+ErrorLevel3: Cette version n'aurait pas dû être publiée.
+TerminateCommand: Abandon de la commande
+ERR-000-000-0: Aucune erreur
+ERR-000-900-0:Erreur de test niveau 0
+ERR-000-910-1: Erreur de test niveau 1
+ERR-000-920-2:Erreur de test niveau 2
+ERR-000-930-3:Erreur de test niveau 3
+ERR-000-804-1: TownOfHost ne prend pas en charge le Vanilla HnS, donc déchargé.
+ERR-001-000-3: le dictionnaire principal contient des clés en double.
+DefaultSystemMessageTitle:【===== Message système =====】
+MessageFromTheHost: 【Message de l'hôte】
+TabGroup.MainSettings:Paramètres principaux
+TabGroup.CrewmateRoles: Rôles des coéquipiers
+TabGroup.NeutralRoles: Rôles neutres
+TabGroup.ImpostorRoles: Rôles d'imposteur
+TabGroup.Addons:Modules complémentaires
+ActiveRolesList: liste des rôles actifs
+ForExample: Exemple d'utilisation
+ForceEnd: abandonné
+EveryoneDied: il ne reste plus personne
+ForceEndText: l'hôte a interrompu le jeu
+HideGameCodes:Masquer le code du jeu
+updateButton: Mettre à jour
+updatePleaseWait: Veuillez patienter...
+updateManually: Échec de la mise à jour.\nVeuillez mettre à jour manuellement.
+updateInProgress: mise à jour...
+announcementUpdate:<size=3f>Mettre à jour{0}</size>\n{1}
+annonceChangelog:<size=3f>ChangeLogs v{0}</size>\n{1}
+updateRestart: mise à jour terminée !\nVeuillez redémarrer le jeu.
+updateFailed: Échec de la mise à jour.
+onSetPublicNoLatest: les salons publics ne sont disponibles que dans la dernière version.\nVeuillez mettre à jour.
+CanNotJoinPublicRoomNoLatest: Vous ne pouvez pas rejoindre les salons publics sans la dernière version.\nVeuillez mettre à jour.
+ModBrokenMessage: Le fichier MOD est endommagé.\nVeuillez réinstaller.
+DisabledByProgram: les salles publiques ont été désactivées par le programme
+EnterVentToWin:Entrez dans un conduit pour gagner !!
+FireworksPutPhase:{0} feux d'artifice restants
+FireworksWaitPhase: attendez un petit moment...
+FireworksReadyFirePhase: Feu !
+StandardHAS: cache-cache avec rôles
+StandardHASWaitingTime: Veille
+InvalidArgs: Args non valides
+On: ACTIVÉ
+Off: désactivé
+ColoredOn:<color=#00fefe>ON</color>
+CouloredOff:<color=#ff4c6f>OFF</color>
+CurrentActiveSettingsHelp:Aide sur les paramètres actifs actuels
+WitchCurrentMode: Mode actuel:
+WitchModeKill:Tuer
+WitchModeSpell:Sort
+WitchModeDouble: Double Activer
+BountyCurrentTarget: cible actuelle
+Roles:Rôles
+Settngs:Paramètres
+Addons: modules complémentaires
+LastResult:Résultats de la correspondance
+KillLog: journal des tués
+Maximum: Max
+Rate0:0 %
+Rate5: 5 %
+Rate10:10%
+Rate20:20%
+Rate30:30%
+Rate40:40%
+Rate50:50%
+Rate60:60%
+Rate70:70%
+Rate80:80%
+Rate90:90%
+Rate100:100%
+Preset: Préréglage
+Preset_1: Préréglage 1
+Preset_2: Préréglage 2
+Preset_3: Préréglage 3
+Preset_4: Préréglage 4
+Preset_5: Préréglage 5
+Standar: normale
+GameMode: mode de jeu
+PressTabToNextPage:Appuyez sur la tabulation ou le numéro pour la page suivante...
+RoleSummaryText:Game End Player-Roles List:
+doOverride: remplacer les tâches de %role% (au moins 1)
+assignCommonTasks: Donner %role% Tâches courantes
+roleLongTasksNum:%role% Tâches longues
+roleShortTasksNum:%role% Tâches courtes
+Format.Players:{0}
+Format.Seconds:{0}s
+Format.Percent:{0} %
+Format.Time:{0}
+Format.Multiplier:{0}x
+Format.Votes:{0}
+Format.Pieces:{0}
+KillButtonText: tuer
+SniperSnipeButtonText:Tirez
+FireWorksExplosionButtonText:Feu
+FireWorksInstallAtionButtonText:Définir
+SerialKillerSuicideButtonText:Temps de suicide
+WarlockCurseButtonText:Malédiction
+WitchSpellButtonText:Sort
+VampireBiteButtonText:Mordre
+ArsonistDouseButtonText:Éliminer
+PuppeteerOperateButtonText:Manipuler
+BountyHunterChangeButtonText:Échanger
+EvilTrackerChangeButtonText:Pister
+DefaultShapeshiftText: bouton Maj
+DisabledBySettings: désactivé par les paramètres
+Disabled: Désactivé
+FailtoTrack: Échec du suiviHostText:
+HostColor:
+IconColor:
+Icon:
+NameColor:
+HideHostText:
+HideAllTagsAndText:
+SupportUs:
+update:
+GitHub:
+Discord:
+Website:
+PlayerNameForRoleInfo:
+HostIconInMeeting:
+SubText.Crewmate:
+SubText.Impostor:
+SubText.Neutral:
+SubText.Madmate:
+TypeImpostor:
+TypeCrewmate:
+TypeNeutral:
+TypeAddon:
+GuesserMode:
+TeamNeutral:
+TeamMadmate:
+YouAreCrewmate:
+YouAreImpostor:
+YouAreNeutral:
+YouAreMadmate:
+Role_Crewmate:
+Role_Jester:
+Role_Opportunist:
+Role_Celebrity:
+Role_Bodyguard:
+Role_Dictator:
+Role_Mayor:
+Role_Doctor:
+Role_Maverick:
+Role_Pursuer:
+Role_Follower:
+Role_Amnesiac:
+Role_Imitator:
+Role_Sheriff:
+Role_Knight:
+Role_Deputy:
+Role_NoChange:
+CrewmatesCanGuess:
+ImpostorsCanGuess:
+NeutralKillersCanGuess:
+PassiveNeutralsCanGuess:
+CanGuessAddons:
+ShowOnlyEnabledRolesInGuesserUI:
+CrewCanGuessCrew:
+ImpCanGuessImp:
+GuessImmune:
+Sunnyboy:
+Bard:
+CrewmateTOHE:
+EngineerTOHE:
+ScientistTOHE:
+Noisemaker:
+NoisemakerTOHE:
+Tracker:
+TrackerTOHE:
+GuardianAngelTOHE:
+ImpostorTOHE:
+ShapeshifterTOHE:
+Phantom:
+PhantomTOHE:
+Fireworker:
+Mercenary:
+Ninja:
+Zombie:
+Anonymous:
+Miner:
+KillingMachine:
+Escapist:
+Nemesis:
+Bloodmoon:
+Mastermind:
+Undertaker:
+RiftMaker:
+EvilGuesser:
+AntiAdminer:
+Arrogance:
+Bomber:
+Scavenger:
+Trapster:
+Gangster:
+Cleaner:
+Lightning:
+Greedy:
+CursedWolf:
+SoulCatcher:
+QuickShooter:
+Camouflager:
+Eraser:
+Butcher:
+Hangman:
+Swooper:
+Crewpostor:
+Wildling:
+Trickster:
+Vindicator:
+Parasite:
+Disperser:
+Inhibitor:
+Saboteur:
+Councillor:
+Dazzler:
+Deathpact:
+Devourer:
+Consigliere:
+Morphling:
+Twister:
+Lurker:
+Visionary:
+Refugee:
+Underdog:
+Ludopath:
+Godfather:
+Chronomancer:
+Pitfall:
+Berserker:
+EvilMini:
+Blackmailer:
+Instigator:
+LazyGuy:
+SuperStar:
+Celebrity:
+Cleanser:
+Keeper:
+Knight:
+Psychic:
+Mechanic:
+Vigilante:
+Jailer:
+CopyCat:
+Marshall:
+Detective:
+NiceGuesser:
+GuessMaster:
+Transporter:
+Veteran:
+Bastion:
+Bodyguard:
+Deceiver:
+Grenadier:
+Medic:
+FortuneTeller:
+Judge:
+Mortician:
+Medium:
+Pacifist:
+Observer:
+Monarch:
+Overseer:
+Coroner:
+Merchant:
+President:
+Hawk:
+Retributionist:
+Deputy:
+Investigator:
+Guardian:
+Addict:
+Mole:
+Alchemist:
+Tracefinder:
+Oracle:
+Spiritualist:
+Chameleon:
+Inspector:
+Captain:
+Admirer:
+TimeMaster:
+Crusader:
+Reverie:
+Lookout:
+Telecommunication:
+TaskManager:
+Witness:
+Swapper:
+NiceMini:
+Mini:
+Spy:
+Randomizer:
+Enigma:
+Pyromaniac:
+Kamikaze:
+Huntsman:
+Lawyer:
+Vector:
+God:
+Innocent:
+Pelican:
+Revolutionist:
+Hater:
+Demon:
+Stalker:
+Workaholic:
+Solsticer:
+Collector:
+Provocateur:
+BloodKnight:
+PlagueBearer:
+Pestilence:
+Glitch:
+Sidekick:
+Follower:
+Cultist:
+Juggernaut:
+Infectious:
+Virus:
+Pursuer:
+Specter:
+Pirate:
+Agitater:
+Maverick:
+CursedSoul:
+Pickpocket:
+Traitor:
+Vulture:
+Taskinator:
+Benefactor:
+Medusa:
+Spiritcaller:
+Amnesiac:
+Imitator:
+Bandit:
+Doppelganger:
+PunchingBag:
+Doomsayer:
+Shroud:
+Werewolf:
+Shaman:
+Seeker:
+Pixie:
+Occultist:
+SoulCollector:
+SchrodingersCat:
+Romantic:
+VengefulRomantic:
+RuthlessRomantic:
+Poisoner:
+HexMaster:
+Wraith:
+Jinx:
+PotionMaster:
+Necromancer:
+Warden:
+Minion:
+Ghastly:
+Overclocked:
+Flash:
+Torch:
+Tiebreaker:
+Oblivious:
+Bewilder:
+Fool:
+Avanger:
+Youtuber:
+TicketsStealer:
+Paranoia:
+Mimic:
+Guesser:
+Necroview:
+Reach:
+Charmed:
+Cleansed:
+Infected:
+Onbound:
+Rebound:
+Mundane:
+Knighted:
+Unreportable:
+Contagious:
+Lucky:
+Unlucky:
+VoidBallot:
+Aware:
+Fragile:
+DoubleShot:
+Rascal:
+Soulless:
+Gravestone:
+Lazy:
+Autopsy:
+Loyal:
+EvilSpirit:
+Recruit:
+Admired:
+Glow:
+Radar:
+Diseased:
+Antidote:
+Stubborn:
+Swift:
+Ghoul:
+Bloodthirst:
+Burst:
+Sleuth:
+Clumsy:
+Nimble:
+Circumvent:
+Cyber:
+Hurried:
+Oiiai:
+Influenced:
+Silent:
+Susceptible:
+Tricky:
+Rainbow:
+Tired:
+Statue:
+DollMaster:
+BracketAddons:
+EngineerTOHEInfo:
+ScientistTOHEInfo:
+NoisemakerTOHEInfo:
+TrackerTOHEInfo:
+ShapeshifterTOHEInfo:
+PhantomTOHEInfo:
+GuardianAngelTOHEInfo:
+ImpostorTOHEInfo:
+CrewmateTOHEInfo:
+FireworkerInfo:
+MercenaryInfo:
+NinjaInfo:
+ZombieInfo:
+AnonymousInfo:
+MinerInfo:
+KillingMachineInfo:
+EscapistInfo:
+NemesisInfo:
+BeforeNemesisInfo:
+AfterNemesisInfo:
+BloodmoonInfo:
+MastermindInfo:
+UndertakerInfo:
+RiftMakerInfo:
+AntiAdminerInfo:
+ArroganceInfo:
+BomberInfo:
+TrapsterInfo:
+ScavengerInfo:
+EvilGuesserInfo:
+GangsterInfo:
+CleanerInfo:
+LightningInfo:
+GreedyInfo:
+CursedWolfInfo:
+SoulCatcherInfo:
+QuickShooterInfo:
+CamouflagerInfo:
+EraserInfo:
+ButcherInfo:
+HangmanInfo:
+SwooperInfo:
+CrewpostorInfo:
+WildlingInfo:
+TricksterInfo:
+VindicatorInfo:
+ParasiteInfo:
+DisperserInfo:
+InhibitorInfo:
+SaboteurInfo:
+CouncillorInfo:
+DazzlerInfo:
+DeathpactInfo:
+DevourerInfo:
+ConsigliereInfo:
+MorphlingInfo:
+TwisterInfo:
+LurkerInfo:
+ConvictInfo:
+VisionaryInfo:
+RefugeeInfo:
+UnderdogInfo:
+LudopathInfo:
+GodfatherInfo:
+ChronomancerInfo:
+PitfallInfo:
+BerserkerInfo:
+EvilMiniInfo:
+BlackmailerInfo:
+InstigatorInfo:
+LazyGuyInfo:
+SuperStarInfo:
+CleanserInfo:
+KeeperInfo:
+PsychicInfo:
+MechanicInfo:
+VigilanteInfo:
+JailerInfo:
+CopyCatInfo:
+MarshallInfo:
+DetectiveInfo:
+UndercoverInfo:
+KnightInfo:
+NiceGuesserInfo:
+GuessMasterInfo:
+TransporterInfo:
+VeteranInfo:
+BastionInfo:
+BodyguardInfo:
+DeceiverInfo:
+GrenadierInfo:
+MedicInfo:
+FortuneTellerInfo:
+JudgeInfo:
+MorticianInfo:
+MediumInfo:
+ObserverInfo:
+PacifistInfo:
+MonarchInfo:
+OverseerInfo:
+CoronerInfo:
+PresidentInfo:
+MerchantInfo:
+RetributionistInfo:
+HawkInfo:
+DeputyInfo:
+InvestigatorInfo:
+GuardianInfo:
+AddictInfo:
+MoleInfo:
+AlchemistInfo:
+TracefinderInfo:
+OracleInfo:
+SpiritualistInfo:
+ChameleonInfo:
+InspectorInfo:
+CaptainInfo:
+AdmirerInfo:
+TimeMasterInfo:
+CrusaderInfo:
+ReverieInfo:
+LookoutInfo:
+TelecommunicationInfo:
+TaskManagerInfo:
+WitnessInfo:
+GhastlyInfo:
+SwapperInfo:
+NiceMiniInfo:
+PyromaniacInfo:
+HuntsmanInfo:
+SpyInfo:
+RandomizerInfo:
+EnigmaInfo:
+LawyerInfo:
+VectorInfo:
+GodInfo:
+InnocentInfo:
+PelicanInfo:
+RevolutionistInfo:
+HaterInfo:
+DemonInfo:
+StalkerInfo:
+WorkaholicInfo:
+SolsticerInfo:
+CollectorInfo:
+ProvocateurInfo:
+BloodKnightInfo:
+PlagueBearerInfo:
+PestilenceInfo:
+GlitchInfo:
+SidekickInfo:
+FollowerInfo:
+CultistInfo:
+JuggernautInfo:
+InfectiousInfo:
+VirusInfo:
+PursuerInfo:
+SpecterInfo:
+PirateInfo:
+AgitaterInfo:
+MaverickInfo:
+CursedSoulInfo:
+PickpocketInfo:
+TraitorInfo:
+VultureInfo:
+TaskinatorInfo:
+BenefactorInfo:
+MedusaInfo:
+SpiritcallerInfo:
+AmnesiacInfo:
+ImitatorInfo:
+BanditInfo:
+DoppelgangerInfo:
+PunchingBagInfo:
+KamikazeInfo:
+DoomsayerInfo:
+ShroudInfo:
+WerewolfInfo:
+ShamanInfo:
+SeekerInfo:
+PixieInfo:
+OccultistInfo:
+SoulCollectorInfo:
+SchrodingersCatInfo:
+RomanticInfo:
+VengefulRomanticInfo:
+RuthlessRomanticInfo:
+PoisonerInfo:
+HexMasterInfo:
+WraithInfo:
+JinxInfo:
+PotionMasterInfo:
+NecromancerInfo:
+WardenInfo:
+MinionInfo:
+OverclockedInfo:
+FlashInfo:
+TorchInfo:
+TiebreakerInfo:
+ObliviousInfo:
+BewilderInfo:
+FoolInfo:
+AvangerInfo:
+YoutuberInfo:
+CelebrityInfo:
+TicketsStealerInfo:
+ParanoiaInfo:
+MimicInfo:
+GuesserInfo:
+NecroviewInfo:
+ReachInfo:
+OnboundInfo:
+ReboundInfo:
+MundaneInfo:
+UnreportableInfo:
+LuckyInfo:
+DoubleShotInfo:
+RascalInfo:
+SoullessInfo:
+GravestoneInfo:
+LazyInfo:
+AutopsyInfo:
+LoyalInfo:
+EvilSpiritInfo:
+RecruitInfo:
+AdmiredInfo:
+GlowInfo:
+RadarInfo:
+DiseasedInfo:
+AntidoteInfo:
+StubbornInfo:
+SwiftInfo:
+UnluckyInfo:
+VoidBallotInfo:
+AwareInfo:
+FragileInfo:
+GhoulInfo:
+BloodthirstInfo:
+BurstInfo:
+SleuthInfo:
+ClumsyInfo:
+NimbleInfo:
+CircumventInfo:
+OiiaiInfo:
+CyberInfo:
+HurriedInfo:
+InfluencedInfo:
+SilentInfo:
+SusceptibleInfo:
+TrickyInfo:
+TiredInfo:
+StatueInfo:
+NotAssignedInfo:
+SunnyboyInfo:
+BardInfo:
+RainbowInfo:
+DollMasterInfo:
+EngineerTOHEInfoLong:
+ScientistTOHEInfoLong:
+NoisemakerTOHEInfoLong:
+TrackerTOHEInfoLong:
+ShapeshifterTOHEInfoLong:
+PhantomTOHEInfoLong:
+GuardianAngelTOHEInfoLong:
+ImpostorTOHEInfoLong:
+CrewmateTOHEInfoLong:
+FireworkerInfoLong:
+MercenaryInfoLong:
+ZombieInfoLong:
+NinjaInfoLong:
+AnonymousInfoLong:
+MinerInfoLong:
+KillingMachineInfoLong:
+EscapistInfoLong:
+NemesisInfoLong:
+BloodmoonInfoLong:
+MastermindInfoLong:
+UndertakerInfoLong:
+RiftMakerInfoLong:
+EvilGuesserInfoLong:
+AntiAdminerInfoLong:
+ArroganceInfoLong:
+BomberInfoLong:
+ScavengerInfoLong:
+TrapsterInfoLong:
+GangsterInfoLong:
+CleanerInfoLong:
+LightningInfoLong:
+GreedyInfoLong:
+CursedWolfInfoLong:
+SoulCatcherInfoLong:
+QuickShooterInfoLong:
+CamouflagerInfoLong:
+EraserInfoLong:
+ButcherInfoLong:
+HangmanInfoLong:
+SwooperInfoLong:
+CrewpostorInfoLong:
+WildlingInfoLong:
+TricksterInfoLong:
+VindicatorInfoLong:
+ParasiteInfoLong:
+DisperserInfoLong:
+InhibitorInfoLong:
+SaboteurInfoLong:
+CouncillorInfoLong:
+DazzlerInfoLong:
+DeathpactInfoLong:
+DevourerInfoLong:
+MorphlingInfoLong:
+TwisterInfoLong:
+LurkerInfoLong:
+VisionaryInfoLong:
+RefugeeInfoLong:
+UnderdogInfoLong:
+ConsigliereInfoLong:
+LudopathInfoLong:
+GodfatherInfoLong:
+ChronomancerInfoLong:
+PitfallInfoLong:
+BerserkerInfoLong:
+EvilMiniInfoLong:
+BlackmailerInfoLong:
+InstigatorInfoLong:
+LazyGuyInfoLong:
+SuperStarInfoLong:
+CelebrityInfoLong:
+CleanserInfoLong:
+KeeperInfoLong:
+PsychicInfoLong:
+MechanicInfoLong:
+VigilanteInfoLong:
+JailerInfoLong:
+MarshallInfoLong:
+DetectiveInfoLong:
+UndercoverInfoLong:
+NiceGuesserInfoLong:
+GuessMasterInfoLong:
+KnightInfoLong:
+TransporterInfoLong:
+VeteranInfoLong:
+BastionInfoLong:
+CopyCatInfoLong:
+BodyguardInfoLong:
+DeceiverInfoLong:
+GrenadierInfoLong:
+MedicInfoLong:
+FortuneTellerInfoLong:
+JudgeInfoLong:
+MorticianInfoLong:
+MediumInfoLong:
+ObserverInfoLong:
+MonarchInfoLong:
+PacifistInfoLong:
+OverseerInfoLong:
+CoronerInfoLong:
+PresidentInfoLong:
+MerchantInfoLong:
+RetributionistInfoLong:
+HawkInfoLong:
+DeputyInfoLong:
+InvestigatorInfoLong:
+GuardianInfoLong:
+AddictInfoLong:
+MoleInfoLong:
+AlchemistInfoLong:
+KamikazeInfoLong:
+TracefinderInfoLong:
+OracleInfoLong:
+SpiritualistInfoLong:
+ChameleonInfoLong:
+InspectorInfoLong:
+CaptainInfoLong:
+AdmirerInfoLong:
+TimeMasterInfoLong:
+CrusaderInfoLong:
+ReverieInfoLong:
+LookoutInfoLong:
+TelecommunicationInfoLong:
+TaskManagerInfoLong:
+WitnessInfoLong:
+SwapperInfoLong:
+NiceMiniInfoLong:
+SpyInfoLong:
+RandomizerInfoLong:
+EnigmaInfoLong:
+PyromaniacInfoLong:
+HuntsmanInfoLong:
+MiniInfoLong:
+LawyerInfoLong:
+VectorInfoLong:
+GodInfoLong:
+InnocentInfoLong:
+PelicanInfoLong:
+RevolutionistInfoLong:
+HaterInfoLong:
+DemonInfoLong:
+StalkerInfoLong:
+WorkaholicInfoLong:
+SolsticerInfoLong:
+CollectorInfoLong:
+GlitchInfoLong:
+SidekickInfoLong:
+ProvocateurInfoLong:
+BloodKnightInfoLong:
+PlagueBearerInfoLong:
+PestilenceInfoLong:
+FollowerInfoLong:
+CultistInfoLong:
+JuggernautInfoLong:
+InfectiousInfoLong:
+VirusInfoLong:
+PursuerInfoLong:
+SpecterInfoLong:
+PirateInfoLong:
+AgitaterInfoLong:
+MaverickInfoLong:
+CursedSoulInfoLong:
+PickpocketInfoLong:
+TraitorInfoLong:
+VultureInfoLong:
+TaskinatorInfoLong:
+BenefactorInfoLong:
+MedusaInfoLong:
+SpiritcallerInfoLong:
+AmnesiacInfoLong:
+ImitatorInfoLong:
+BanditInfoLong:
+DoppelgangerInfoLong:
+PunchingBagInfoLong:
+DoomsayerInfoLong:
+ShroudInfoLong:
+WerewolfInfoLong:
+ShamanInfoLong:
+SeekerInfoLong:
+PixieInfoLong:
+SoulCollectorInfoLong:
+SchrodingersCatInfoLong:
+RomanticInfoLong:
+RuthlessRomanticInfoLong:
+VengefulRomanticInfoLong:
+PoisonerInfoLong:
+HexMasterInfoLong:
+WraithInfoLong:
+JinxInfoLong:
+PotionMasterInfoLong:
+NecromancerInfoLong:
+OverclockedInfoLong:
+FlashInfoLong:
+TorchInfoLong:
+TiebreakerInfoLong:
+ObliviousInfoLong:
+BewilderInfoLong:
+FoolInfoLong:
+AvangerInfoLong:
+YoutuberInfoLong:
+TicketsStealerInfoLong:
+ParanoiaInfoLong:
+MimicInfoLong:
+GuesserInfoLong:
+NecroviewInfoLong:
+ReachInfoLong:
+CharmedInfoLong:
+CleansedInfoLong:
+InfectedInfoLong:
+OnboundInfoLong:
+ReboundInfoLong:
+MundaneInfoLong:
+KnightedInfoLong:
+UnreportableInfoLong:
+ContagiousInfoLong:
+LuckyInfoLong:
+DoubleShotInfoLong:
+RascalInfoLong:
+SoullessInfoLong:
+GravestoneInfoLong:
+LazyInfoLong:
+AutopsyInfoLong:
+LoyalInfoLong:
+EvilSpiritInfoLong:
+RecruitInfoLong:
+AdmiredInfoLong:
+GlowInfoLong:
+RadarInfoLong:
+DiseasedInfoLong:
+AntidoteInfoLong:
+StubbornInfoLong:
+SwiftInfoLong:
+UnluckyInfoLong:
+VoidBallotInfoLong:
+AwareInfoLong:
+FragileInfoLong:
+GhoulInfoLong:
+BloodthirstInfoLong:
+BurstInfoLong:
+SleuthInfoLong:
+ClumsyInfoLong:
+CircumventInfoLong:
+NimbleInfoLong:
+InfluencedInfoLong:
+SilentInfoLong:
+SusceptibleInfoLong:
+TrickyInfoLong:
+TiredInfoLong:
+StatueInfoLong:
+CyberInfoLong:
+HurriedInfoLong:
+OiiaiInfoLong:
+RainbowInfoLong:
+SunnyboyInfoLong:
+BardInfoLong:
+WardenInfoLong:
+GhastlyInfoLong:
+MinionInfoLong:
+DollMasterInfoLong:
+ShowTextOverlay:
+Overlay.GuesserMode:
+Overlay.NoGameEnd:
+Overlay.DebugMode:
+Overlay.LowLoadMode:
+Overlay.AllowConsole:
+DisableShieldAnimations:
+DisableKillAnimationOnGuess:
+AbilityUseGainWithEachTaskCompleted:
+OutOfAbilityUsesDoMoreTasks:
+AbilityUseLimit:
+ShowArrows:
+ArrowDelayMin:
+ArrowDelayMax:
+SMUsesUsedWhenFixingReactorOrO2:
+SMUsesUsedWhenFixingLightsOrComms:
+AbilityCD:
+GrenadierSkillMaxOfUseage:
+ShowSpecificRole:
+TimeMasterMaxUses:
+SwooperVentNormallyOnCooldown:
+WraithVentNormallyOnCooldown:
+DisableMeeting:
+DisableCloseDoor:
+DisableSabotage:
+AllowConsole:
+DebugMode:
+HHSuccessKCDDecrease:
+HHFailureKCDIncrease:
+HHNumOfTargets:
+Targets:
+HHMaxKCD:
+HHMinKCD:
+EveryoneCanSeeDeathReason:
+DisableShortTasks:
+DisableCleanVent:
+DisableCalibrateDistributor:
+DisableChartCourse:
+DisableStabilizeSteering:
+DisableCleanO2Filter:
+DisableUnlockManifolds:
+DisablePrimeShields:
+DisableMeasureWeather:
+DisableBuyBeverage:
+DisableAssembleArtifact:
+DisableSortSamples:
+DisableProcessData:
+DisableRunDiagnostics:
+DisableRepairDrill:
+DisableAlignTelescope:
+DisableRecordTemperature:
+DisableFillCanisters:
+DisableMonitorTree:
+DisableStoreArtifacts:
+DisablePutAwayPistols:
+DisablePutAwayRifles:
+DisableMakeBurger:
+DisableCleanToilet:
+DisableDecontaminate:
+DisableSortRecords:
+DisableFixShower:
+DisablePickUpTowels:
+DisablePolishRuby:
+DisableDressMannequin:
+DisableCommonTasks:
+DisableFixWiring:
+DisableEnterIdCode:
+DisableInsertKeys:
+DisableScanBoardingPass:
+DisableLongTasks:
+DisableAlignEngineOutput:
+DisableInspectSample:
+DisableEmptyChute:
+DisableClearAsteroids:
+DisableWaterPlants:
+DisableOpenWaterways:
+DisableReplaceWaterJug:
+DisableRebootWifi:
+DisableDevelopPhotos:
+DisableRewindTapes:
+DisableStartFans:
+DisableOtherTasks:
+DisableEmptyGarbage:
+DisableFuelEngines:
+DisableDivertPower:
+DisableActivateWeatherNodes:
+DisableRoastMarshmallow:
+DisableCollectSamples:
+DisableReplaceParts:
+DisableCollectVegetables:
+DisableMineOres:
+DisableExtractFuel:
+DisableCatchFish:
+DisablePolishGem:
+DisableHelpCritter:
+DisableHoistSupplies:
+DisableFixAntenna:
+DisableBuildSandcastle:
+DisableCrankGenerator:
+DisableMonitorMushroom:
+DisablePlayVideoGame:
+DisableFindSignal:
+DisableThrowFisbee:
+DisableLiftWeights:
+DisableCollectShells:
+SuffixMode.DoNotKillMe:
+SuffixMode.NoAndroidPlz:
+SuffixMode.AutoHost:
+SuffixModeText.DoNotKillMe:
+SuffixModeText.NoAndroidPlz:
+SuffixModeText.AutoHost:
+FormatNameMode:
+FormatNameModes.None:
+FormatNameModes.Color:
+FormatNameModes.Snacks:
+DisableEmojiName:
+FixKillCooldownValue:
+OverclockedReduction:
+ConvertedCanBeGhostRole:
+MaxImpGhostRole:
+MaxCrewGhostRole:
+DefaultAngelCooldown:
+DisableTaskWinIfAllCrewsAreDead:
+DisableTaskWinIfAllCrewsAreConverted:
+DIYGameSettings:
+Settings::
+PlayerCanSetColor:
+PlayerCanSetName:
+PlayerCanUseQuitCommand:
+PlayerCanUseTP:
+CanPlayMiniGames:
+KPDCamouflageMode:
+DarkTheme:
+DisableLobbyMusic:
+AutoStart:
+EnableCustomButton:
+EnableCustomSoundEffect:
+EnableCustomDecorations:
+SwitchVanilla:
+UnlockFPS:
+ForceOwnLanguage:
+ForceOwnLanguageRoleName:
+VersionCheat:
+GodMode:
+AutoDisplayLastRoles:
+RevertOldKillLog:
+HideExileChat:
+ExileSpamMsg:
+EnableYTPlan:
+InvalidPermissionCMD:
+KickLowLevelPlayer:
+TempBanLowLevelPlayer:
+ApplyWhiteList:
+AllowOnlyWhiteList:
+AutoKickStart:
+AutoKickStartTimes:
+AutoKickStartAsBan:
+AutoKickStopWords:
+AutoKickStopWordsTimes:
+AutoKickStopWordsAsBan:
+AutoWarnStopWords:
+TempBanPlayersWhoKeepQuitting:
+QuitTimesTillTempBan:
+KickOtherPlatformPlayer:
+OptKickAndroidPlayer:
+OptKickIphonePlayer:
+OptKickXboxPlayer:
+OptKickPlayStationPlayer:
+OptKickNintendoPlayer:
+ShareLobby:
+ShareLobbyMinPlayer:
+DisableVanillaRoles:
+SelfVote:
+DisableSkeldDevices:
+DisableFungleBinoculars:
+RandomSpawnMode:
+RandomSpawn_SpawnRandomLocation:
+RandomSpawn_AirshipAdditionalSpawn:
+RandomSpawn_SpawnRandomVents:
+DisableOnSomeMaps:
+DisableOnSkeld:
+DisableOnMira:
+DisableOnPolus:
+DisableOnDleks:
+DisableOnAirship:
+DisableOnFungle:
+DisableReportWhenCC:
+SendRoleDescriptionFirstMeeting:
+RoleAssigningAlgorithm.MersenneTwister:
+AirshipVariableElectrical:
+DisableSporeTriggerOnFungle:
+DisableZiplineOnFungle:
+DisableZiplineFromTop:
+DisableZiplineFromUnder:
+ChangeDecontaminationTime:
+DecontaminationTimeOnMiraHQ:
+DecontaminationTimeOnPolus:
+KickPlayerFriendCodeInvalid:
+TempBanPlayerFriendCodeInvalid:
+RemovePetsAtDeadPlayers:
+ConfirmEjectionsMode:
+ConfirmEjections.None:
+ConfirmEjections.Team:
+ConfirmEjections.Role:
+ShowImpRemainOnEject:
+ShowNKRemainOnEject:
+ConfirmEgoistOnEject:
+ConfirmLoversOnEject:
+ConfirmSidekickOnEject:
+HideBittenRolesOnEject:
+ShowTeamNextToRoleNameOnEject:
+Ban:
+Kick:
+NoticeMe:
+NoticeEveryone:
+TempBan:
+OnlyCancel:
+CheatResponses:
+NeutralRoleWinTogether:
+NeutralWinTogether:
+MenuTitle.Disable:
+MenuTitle.MapsSettings:
+MenuTitle.Sabotage:
+MenuTitle.Meeting:
+MenuTitle.Ghost:
+MenuTitle.Other:
+MenuTitle.Ejections:
+MenuTitle.Settings:
+MenuTitle.TaskSettings:
+MenuTitle.Guessers:
+MenuTitle.GuesserModeRoles:
+ShieldPersonDiedFirst:
+LegacyNemesis:
+ArsonistKeepsGameGoing:
+ArsonistCanIgniteAnytime:
+ArsonistMinPlayersToIgnite:
+ArsonistMaxPlayersToIgnite:
+PuppeteerDoubleKills:
+DollMasterPossessionCooldown:
+DollMasterPossessionDuration:
+DollMasterCanKillAsMainBody:
+DollMasterTargetDiesAfterPossession:
+MastermindCD:
+MastermindTimeLimit:
+MastermindDelay:
+ManipulateNotify:
+ManipulatedKilled:
+SurvivedManipulation:
+Glitch_HackCooldown:
+Glitch_HackDuration:
+Glitch_MimicCooldown:
+Glitch_MimicDuration:
+Glitch_MimicButtonText:
+Glitch_MimicDur:
+Glitch_HackCD:
+Glitch_KCD:
+Glitch_MimicCD:
+HackedByGlitch:
+GlitchKill:
+GlitchReport:
+GlitchVent:
+ShowFPS:
+FPSGame:
+ControlCooldown:
+PoisonCooldown:
+PoisonerKillDelay:
+WardenNotifyLimit:
+BombCooldown:
+Warlock_CanKillSelf:
+CrewpostorKnowsAllies:
+AlliesKnowCrewpostor:
+CrewpostorLungeKill:
+CrewpostorKillAfterTask:
+NonNeutralKillingRolesMinPlayer:
+NonNeutralKillingRolesMaxPlayer:
+NeutralKillingRolesMinPlayer:
+NeutralKillingRolesMaxPlayer:
+ImpsCanSeeEachOthersRoles:
+ImpsCanSeeEachOthersAddOns:
+ImpKnowWhosMadmate:
+MadmateKnowWhosImp:
+MadmateKnowWhosMadmate:
+ImpCanKillMadmate:
+MadmateCanKillImp:
+MadmateCanFixSabotage:
+EGCanGuessImp:
+GGCanGuessCrew:
+EGCanGuessAdt:
+EGCanGuessTaskDoneSnitch:
+GGCanGuessAdt:
+GuesserCanGuessTimes:
+GuesserTryHideMsg:
+GCanGuessImp:
+GCanGuessCrew:
+GCanGuessAdt:
+GCanGuessTaskDoneSnitch:
+DeadImpCantSabotage:
+VampireTargetDead:
+VampireActionMode:
+Vampire_OnlyBites:
+Youtuber_KillerWinsWithYouTuber:
+Maverick_MinKillsToWin:
+AbilityCooldown:
+CanKill:
+CanKillImpostors:
+CanGuess:
+HideVote:
+HideAdditionalVotes:
+CanUseMeetingButton:
+ModeSwitchAction:
+ShowShapeshiftAnimations:
+ShapeshifterBase_ShapeshiftCooldown:
+ShapeshifterBase_ShapeshiftDuration:
+ShapeshifterBase_LeaveShapeshiftingEvidence:
+PhantomBase_InvisCooldown:
+PhantomBase_InvisDuration:
+GuardianAngelBase_ProtectCooldown:
+GuardianAngelBase_ProtectionDuration:
+GuardianAngelBase_ImpostorsCanSeeProtect:
+ScientistBase_BatteryCooldown:
+ScientistBase_BatteryDuration:
+EngineerBase_VentCooldown:
+EngineerBase_InVentMaxTime:
+NoisemakerBase_ImpostorAlert:
+NoisemakerBase_AlertDuration:
+TrackerBase_TrackingCooldown:
+TrackerBase_TrackingDuration:
+TrackerBase_TrackingDelay:
+KamikazeControversialSymbol:
+MechanicSkillLimit:
+MechanicFixesDoors:
+MechanicFixesReactors:
+MechanicFixesOxygens:
+MechanicFixesCommunications:
+MechanicFixesElectrical:
+SheriffShowShotLimit:
+SheriffCanKillNeutralsMode:
+SheriffCanKillCharmed:
+SheriffCanKillEgoist:
+SheriffCanKillSidekick:
+SheriffCanKillLovers:
+SheriffCanKillMadmate:
+SheriffCanKillInfected:
+SheriffCanKillContagious:
+SheriffSetMadCanKill:
+SheriffMadCanKillImp:
+SheriffMadCanKillNeutral:
+SheriffMadCanKillCrew:
+ReverieIncreaseKillCooldown:
+ReverieMaxKillCooldown:
+ReverieMisfireSuicide:
+ReverieResetCooldownMeeting:
+ConvertedReverieKillAll:
+VigilanteNotify:
+SnitchCanFindMadmate:
+MeetingsNeededForWin:
+ExecutionerCanTargetNeutralBenign:
+ExecutionerCanTargetNeutralEvil:
+ExecutionerCanTargetNeutralChaos:
+SidekickSheriffCanGoBerserk:
+LawyerCanTargetImpostor:
+LawyerCanTargetNeutralKiller:
+LawyerCanTargetCrewmate:
+LawyerCanTargetJester:
+LawyerChangeRolesAfterTargetKilled:
+LaywerShouldChangeRoleAfterTargetKilled:
+LawyerTargetDeadInMeeting:
+MercenaryLimit:
+FireworkerMaxCount:
+FireworkerRadius:
+SniperCanKill:
+PyroDouseCooldown:
+PyroBurnCooldown:
+UndertakerFreezeDuration:
+NameDisplayAddons:
+YourAddon:
+NoLimitAddonsNumMax:
+LoverSpawnChances:
+AdditionRolesSpawnRate:
+TorchVision:
+TorchAffectedByLights:
+BewilderVision:
+JesterVision:
+LawyerVision:
+FlashSpeed:
+LoverSuicide:
+LoverKnowRoles:
+BecomeTrapperBlockMoveTime:
+ImpCanBeTrapper:
+CrewCanBeTrapper:
+NeutralCanBeTrapper:
+ImpCanBeGravestone:
+CrewCanBeGravestone:
+NeutralCanBeGravestone:
+EvilHackerMurderNotify:
+EvilHackerLastAdminInfoTitle:
+EvilHackerDeadbody:
+TraitorKnowMadmate:
+NBareRed:
+NEareRed:
+NCareRed:
+CrewKillingRed:
+PsychicCanSeeNum:
+PsychicFresh:
+DetectiveCanknowKiller:
+EveryOneKnowSuperStar:
+HackLimit:
+ZombieSpeedReduce:
+NemesisCanKillNum:
+ImpKnowCelebrityDead:
+NeutralKnowCelebrityDead:
+VectorVentNumWin:
+CanCheckCamera:
+DefaultKillCooldown:
+ReduceKillCooldown:
+MinKillCooldown:
+BomberRadius:
+NotifyGodAlive:
+TransporterTeleportMax:
+MadTimeManagerLimitMeetingTime:
+AssignOnlyToCrewmate:
+SnitchCanBeWorkhorse:
+InnocentCanWinByImp:
+ImpCanBeParanoia:
+CrewCanBeParanoia:
+DualVotes:
+VeteranSkillCooldown:
+VeteranSkillDuration:
+BodyguardProtectRadius:
+ImpCanBeEgoist:
+CrewCanBeEgoist:
+ImpEgoistVisibalToAllies:
+EgoistCountAsConverted:
+ImpCanBeSeer:
+CrewCanBeSeer:
+NeutralCanBeSeer:
+ImpCanBeGuesser:
+CrewCanBeGuesser:
+NeutralCanBeGuesser:
+ImpCanBeWatcher:
+CrewCanBeWatcher:
+NeutralCanBeWatcher:
+ImpCanBeBait:
+CrewCanBeBait:
+NeutralCanBeBait:
+ImpCanBeRainbow:
+NeutralCanBeRainbow:
+CrewCanBeRainbow:
+GuessRainbow:
+RainbowColorChangeCoolDown:
+RainbowInCamouflage:
+BaitDelayMin:
+BaitDelayMax:
+BaitDelayNotify:
+BecomeBaitDelayNotify:
+BaitNotification:
+BaitAdviceAlive:
+BaitCanBeReportedUnderAllConditions:
+DeceiverSkillCooldown:
+DeceiverSkillLimitTimes:
+DeceiverAbilityLost:
+PursuerSkillCooldown:
+PursuerSkillLimitTimes:
+AddictSuicideTimer:
+GrenadierSkillCooldown:
+GrenadierSkillDuration:
+GrenadierCauseVision:
+GrenadierCanAffectNeutral:
+TicketsPerKill:
+GangsterRecruitCooldown:
+GangsterRecruitLimit:
+KamikazeMaxMarked:
+RevolutionistDrawTime:
+RevolutionistCooldown:
+RevolutionistDrawCount:
+RevolutionistKillProbability:
+RevolutionistVentCountDown:
+PelicanKillCooldown:
+Pelican.TargetCannotBeEaten:
+MedicWhoCanSeeProtect:
+MedicKnowShieldBroken:
+Medic_SeeMedicAndTarget:
+Medic_SeeMedic:
+Medic_SeeTarget:
+Medic_SeeNoOne:
+MedicShieldDeactivatesWhenMedicDies:
+MedicShielDeactivationIsVisible:
+MedicShieldDeactivationIsVisible_Immediately:
+MedicShieldDeactivationIsVisible_AfterMeeting:
+MedicShieldDeactivationIsVisible_OFF:
+MedicResetCooldown:
+MedicShieldedCanBeGuessed:
+FortuneTellerSkillLimit:
+MadmateSpawnMode:
+MadmateSpawnMode.Assign:
+MadmateSpawnMode.FirstKill:
+MadmateSpawnMode.SelfVote:
+MadmateCountMode:
+MadmateCountMode.None:
+MadmateCountMode.Imp:
+MadmateCountMode.Original:
+SnatchesWin:
+DemonKillCooldown:
+DemonHealthMax:
+DemonDamage:
+DemonSelfHealthMax:
+DemonSelfDamage:
+LightningConvertTime:
+LightningKillCooldown:
+LightningKillerConvertGhost:
+CanCountNeutralKiller:
+GreedyOddKillCooldown:
+GreedyEvenKillCooldown:
+WorkaholicCannotWinAtDeath:
+WorkaholicVisibleToEveryone:
+WorkaholicGiveAdviceAlive:
+DoctorVisibleToEveryone:
+CursedWolfGuardSpellTimes:
+KillAttackerWhenAbilityRemaining:
+JinxSpellTimes:
+CollectorCollectAmount:
+GlitchCanVote:
+QuickShooterShapeshiftCooldown:
+MeetingReserved:
+AccurateCheckMode:
+RandomActiveRoles:
+CamouflageCooldown:
+CamouflageDuration:
+NinjaMarkCooldown:
+NinjaAssassinateCooldown:
+NinjaModeDouble:
+JudgeCanTrialnCrewKilling:
+JudgeCanTrialNeutralB:
+JudgeCanTrialNeutralK:
+JudgeCanTrialNeutralE:
+JudgeCanTrialNeutralC:
+JudgeCanTrialSidekick:
+JudgeCanTrialInfected:
+JudgeCanTrialContagious:
+JudgeTryHideMsg:
+JudgeTrialLimitPerMeeting:
+JudgeCanTrialMadmate:
+JudgeCanTrialCharmed:
+JudgeDead:
+JudgeTrialMax:
+Judge_LaughToWhoTrialSelf:
+Judge_TrialKill:
+Judge_TrialKillTitle:
+Judge_TrialHelp:
+Judge_TrialNull:
+VeteranSkillMaxOfUseage:
+SwooperCooldown:
+SwooperDuration:
+WraithCooldown:
+WraithDuration:
+BastionNotify:
+EnteredBombedVent:
+BastionVentButtonText:
+BombsClearAfterMeeting:
+BastionMaxBombs:
+VentBombSuccess:
+LowLoadMode:
+ShowLobbyCode:
+BKProtectDuration:
+FollowerMaxBetTimes:
+FollowerBetCooldown:
+FollowerMaxBetCooldown:
+FollowerBetCooldownIncrese:
+FollowerKnowTargetRole:
+FollowerBetTargetKnowFollower:
+FortuneTellerHideVote:
+CultistCharmCooldown:
+CultistCharmCooldownIncrese:
+CultistCharmMax:
+CultistKnowTargetRole:
+CultistTargetKnowOtherTarget:
+CultistCanCharmNeutral:
+InfectiousBiteCooldown:
+KnowTargetRole:
+TargetKnowsLawyer:
+InfectiousBiteMax:
+InfectiousKnowTargetRole:
+InfectiousTargetKnowOtherTarget:
+DoubleClickKill:
+VirusInfectMax:
+VirusKnowTargetRole:
+VirusTargetKnowOtherTarget:
+VirusKillInfectedPlayerAfterMeeting:
+Virus_ContagiousCountMode:
+Virus_ContagiousCountMode_None:
+Virus_ContagiousCountMode_Virus:
+Virus_ContagiousCountMode_Original:
+VirusNoticeTitle:
+VirusNoticeMessage:
+VirusNoticeMessage2:
+Cultist_CharmedCountMode:
+Cultist_CharmedCountMode_None:
+Cultist_CharmedCountMode_Cultist:
+Cultist_CharmedCountMode_Original:
+JackalCanWinBySabotageWhenNoImpAlive:
+JackalResetKillCooldownWhenPlayerGetKilled:
+JackalResetKillCooldownOn:
+JackalCanRecruitSidekick:
+JackalSidekickRecruitLimit:
+Jackal_SidekickCountMode:
+Jackal_SidekickCountMode_None:
+Jackal_SidekickCountMode_Jackal:
+Jackal_SidekickCountMode_Original:
+Jackal_SidekickAssignMode:
+Jackal_SidekickAssignMode_SidekickAndRecruit:
+Jackal_SidekickAssignMode_Sidekick:
+Jackal_SidekickAssignMode_Recruit:
+JackalWinWithSidekick:
+Jackal_SidekickCanKillSidekick:
+Jackal_SidekickCanKillJackal:
+JackalCanKillSidekick:
+ImpCanBeNecroview:
+CrewCanBeNecroview:
+NeutralCanBeNecroview:
+ImpCanBeInLove:
+CrewCanBeInLove:
+NeutralCanBeInLove:
+ImpCanBeOblivious:
+CrewCanBeOblivious:
+NeutralCanBeOblivious:
+ImpCanBeTiebreaker:
+CrewCanBeTiebreaker:
+NeutralCanBeTiebreaker:
+HexesLookLikeSpells:
+HexButtonText:
+ObliviousBaitImmune:
+ImpCanBeOnbound:
+CrewCanBeOnbound:
+NeutralCanBeOnbound:
+ImpCanBeRebound:
+CrewCanBeRebound:
+NeutralCanBeRebound:
+CrewCanBeMundane:
+NeutralCanBeMundane:
+GuessedAsMundane:
+ImpCanBeUnreportable:
+CrewCanBeUnreportable:
+NeutralCanBeUnreportable:
+PacifistCooldown:
+PacifistMaxOfUseage:
+CoronerArrowsPointingToDeadBody:
+CoronerLeaveDeadBodyUnreportable:
+CoronerInformKillerBeingTracked:
+PresidentAbilityUses:
+PresidentCanBeGuessedAfterRevealing:
+HidePresidentEndCommand:
+NeutralsSeePresident:
+MadmatesSeePresident:
+ImpsSeePresident:
+PresidentDead:
+PresidentEndMax:
+PresidentRevealMax:
+PresidentRevealed:
+GuessPresident:
+PresidentRevealTitle:
+LuckyProbability:
+ImpCanBeLucky:
+CrewCanBeLucky:
+NeutralCanBeLucky:
+ImpCanBeFool:
+CrewCanBeFool:
+NeutralCanBeFool:
+ImpCanBeDoubleShot:
+CrewCanBeDoubleShot:
+NeutralCanBeDoubleShot:
+MimicCanSeeDeadRoles:
+DisableReportWhenCamouflageIsActive:
+CanUseCommsSabotage:
+ModTag:
+ApplyModeratorList:
+VipTag:
+ApplyVipList:
+AllowSayCommand:
+KickCommandDisabled:
+KickCommandNoAccess:
+KickCommandInvalidID:
+KickCommandKickHost:
+KickCommandKickMod:
+KickCommandKicked:
+KickCommandKickedRole:
+BanCommandDisabled:
+BanCommandNoAccess:
+BanCommandInvalidID:
+BanCommandBanHost:
+BanCommandBanMod:
+BanCommandBanned:
+BanCommandBannedRole:
+BanCommandNoReason:
+ColorCommandDisabled:
+ColorCommandNoAccess:
+ColorCommandNoLobby:
+ColorInvalidHexCode:
+ColorInvalidGradientCode:
+VipColorCommandDisabled:
+VipColorCommandNoAccess:
+VipColorCommandNoLobby:
+VipColorInvalidHexCode:
+VipColorInvalidGradientCode:
+TagColorInvalidHexCode:
+midCommandDisabled:
+midCommandNoAccess:
+WarnCommandDisabled:
+WarnCommandNoAccess:
+WarnCommandInvalidID:
+WarnCommandWarnHost:
+WarnCommandWarnMod:
+WarnCommandWarned:
+WarnExample:
+SayCommandDisabled:
+MessageFromModerator:
+DeathReason.Suicide:
+DeathReason.Cursed:
+DeathReason.Hex:
+DeathReason.Poison:
+DeathReason.Gambled:
+DeathReason.Eaten:
+DeathReason.Sacrifice:
+DeathReason.Quantization:
+DeathReason.Overtired:
+DeathReason.Ashamed:
+DeathReason.PissedOff:
+DeathReason.Dismembered:
+DeathReason.LossOfHead:
+DeathReason.Trialed:
+DeathReason.Infected:
+DeathReason.Jinx:
+DeathReason.Pirate:
+DeathReason.Shrouded:
+DeathReason.Mauled:
+DeathReason.Hack:
+DeathReason.Curse:
+DeathReason.Drained:
+DeathReason.Shattered:
+DeathReason.Trap:
+DeathReason.Targeted:
+DeathReason.Retribution:
+DeathReason.Slice:
+DeathReason.BloodLet:
+OnlyEnabledDeathReasons:
+Disconnected:
+Madmate-:
+Recruit-:
+Charmed-:
+Soulless-:
+Infected-:
+Contagious-:
+Admired-:
+DeputyHandcuffCooldown:
+DeputyHandcuffMax:
+DeputyHandcuffedPlayer:
+HandcuffedByDeputy:
+DeputyInvalidTarget:
+DeputyHandcuffText:
+DeputyHandcuffCDForTarget:
+RejectShapeshift.AbilityWasUsed:
+EscapisMtarkedPosition:
+InvestigateCooldown:
+InvestigateMax:
+InvestigateRoundMax:
+Color.Red:
+Color.Green:
+Color.Gray:
+InvestigatorInvestigatedPlayer:
+InvestigatorInvalidTarget:
+InvestigatorButtonText:
+Investigator.Suspicion:
+Investigator.Role:
+SabotageCooldownControl:
+SkeldReactorTimeLimit:
+SkeldO2TimeLimit:
+MiraReactorTimeLimit:
+MiraO2TimeLimit:
+Command.roles:
+Command.myrole:
+CommandOtherList:
+Command.color:
+Command.quit:
+CommandHostList:
+Command.say:
+Command.mw:
+Command.solvecover:
+Command.kill:
+Command.exe:
+Command.level:
+Command.idlist:
+Command.qq:
+Command.death:
+Command.icons:
+Command.iconinfo:
+Command.iconhelp:
+Command.Poll:
+IconsTitle:
+Remaining.ImpostorCount:
+Remaining.MadmateCount:
+Remaining.NeutralCount:
+EnableKillerLeftCommand:
+ShowMadmatesInLeftCommand:
+SeeEjectedRolesInMeeting:
+SkillUsedLeft:
+NemesisDeadMsg:
+NemesisAliveKill:
+NemesisKillDead:
+NemesisKillSucceed:
+NemesisKillDisable:
+NemesisKillMax:
+CelebrityDead:
+CyberDead:
+DetectiveNoticeVictim:
+DetectiveNoticeKiller:
+DetectiveNoticeKillerNotFound:
+GodNoticeAlive:
+WorkaholicAdviceAlive:
+GuessDead:
+GuessSuperStar:
+GuessNotifiedBait:
+GuessGM:
+GuessGuardianTask:
+GuessMarshallTask:
+GuessObviousAddon:
+GuessAdtRole:
+GuessImpRole:
+GuessCrewRole:
+GuessKill:
+GuessNull:
+GuessHelp:
+GGGuessMax:
+EGGuessMax:
+EGGuessSnitchTaskDone:
+GuessDoubleShot:
+LaughToWhoGuessSelf:
+GuessDisabled:
+GuessWorkaholic:
+GuessDoctor:
+GuessMayor:
+GuessKnighted:
+GuessMonarch:
+GuessShielded:
+MayorRevealWhenDoneTasks:
+MimicDeadMsg:
+FortuneTellerCheck:
+FortuneTellerCheckLimit:
+FortuneTellerCheckSelfMsg:
+FortuneTellerCheckReachLimit:
+FortuneTellerAlreadyCheckedMsg:
+MorticianGetNoInfo:
+MorticianGetInfo:
+MediumContactLimit:
+MediumOnlyReceiveMsgFromCrew:
+MediumTitle:
+MediumHelp:
+MediumYes:
+MediumNo:
+MediumDone:
+MediumNotifyTarget:
+MediumNotifySelf:
+MediumKnowPlayerDead:
+ByBard:
+ByBardGetFailed:
+GangsterSuccessfullyRecruited:
+GangsterRecruitmentFailure:
+BeRecruitedByGangster:
+KamikazeHostage:
+VeteranOnGuard:
+VeteranOffGuard:
+VeteranMaxUsage:
+GrenadierSkillInUse:
+GrenadierSkillStop:
+TicketsStealerGetTicket:
+BecomeMadmateCuzMadmateMode:
+CleanerCleanBody:
+QuickShooterStoraging:
+PoisonerTargetDead:
+BloodthirstAdded:
+WarlockNoTarget:
+WarlockNoTargetYet:
+WarlockTargetDead:
+WarlockControlKill:
+OnCelebrityDead:
+OnCyberDead:
+TeleportedInRndVentByDisperser:
+TeleportedByTransporter:
+ErrorTeleport:
+EraseLimit:
+EraserHideVote:
+EraserEraseMsgTitle:
+EraserEraseNotice:
+EraserEraseBaseImpostorOrNeutralRoleNotice:
+EraserEraseSelf:
+EraserTryingGuessErasedPlayer:
+LostRoleByEraser:
+KilledByScavenger:
+SnitchDoneTasks:
+SwooperCanVent:
+SwooperInvisState:
+SwooperInvisStateOut:
+SwooperInvisInCooldown:
+SwooperInvisStateCountdown:
+SwooperInvisCooldownRemain:
+WraithCanVent:
+WraithInvisState:
+WraithInvisStateOut:
+WraithInvisInCooldown:
+WraithInvisStateCountdown:
+WraithInvisCooldownRemain:
+WerewolfKillButtonText:
+BKInProtect:
+BKProtectOut:
+BKSkillTimeRemain:
+BKSkillNotice:
+BKOffsetKill:
+MedicKillerTryBrokenShieldTargetForMedic:
+MedicKillerTryBrokenShieldTargetForTarget:
+FollowerBetPlayer:
+FollowerBetOnYou:
+CultistCharmedPlayer:
+CharmedByCultist:
+CultistInvalidTarget:
+KillBaitNotify:
+InfectiousInvalidTarget:
+BittenByInfectious:
+InfectiousBittenPlayer:
+GuessNotAllowed:
+GuessOnbound:
+GuessSpecter:
+PacifistOnGuard:
+PacifistMaxUsage:
+PacifistSkillNotify:
+BeRecruitedByJackal:
+CoronerTrackRecorded:
+CoronerNoTrack:
+CoronerIsTrackingYou:
+CoronerReportButtonText:
+MerchantAddonDelivered:
+MerchantAddonSell:
+MerchantAddonSellFail:
+BribedByMerchant:
+BribedByMerchant2:
+MerchantKillAttemptBribed:
+TrapTrapsterBody:
+TrapConsecutiveBodies:
+HauntedByEvilSpirit:
+MonarchKnightCooldown:
+MonarchKnightMax:
+HideAdditionalVotesForKnighted:
+MonarchKnightedPlayer:
+KnightedByMonarch:
+MonarchInvalidTarget:
+GhostTransformTitle:
+SpiritcallerNoticeTitle:
+SpiritcallerNoticeMessage:
+OverseerRevealCooldown:
+OverseerRevealTime:
+OverseerVision:
+MerchantMaxSell:
+MerchantMoneyPerSell:
+MerchantMoneyRequiredToBribe:
+MerchantNotifyBribery:
+MerchantTargetCrew:
+MerchantTargetImpostor:
+MerchantTargetNeutral:
+MerchantSellHelpful:
+MerchantSellHarmful:
+MerchantSellMixed:
+MerchantSellExperimental:
+MerchantSellHarmfulToEvil:
+MerchantSellHelpfulToCrew:
+MerchantSellOnlyEnabledAddons:
+SpiritcallerSpiritMax:
+SpiritcallerSpiritAbilityCooldown:
+SpiritcallerFreezeTime:
+SpiritcallerProtectTime:
+SpiritcallerCauseVision:
+SpiritcallerCauseVisionTime:
+Message.NowOverrideText:
+Message.BannedByBanList:
+Message.BannedByEACList:
+Message.DumpfileSaved:
+Message.DumpcmdUsed:
+Message.KickedByInvalidFriendCode:
+Message.TempBannedByInvalidFriendCode:
+Message.KickWhoSayStart:
+Message.WarnWhoSayStart:
+Message.KickStartAfterWarn:
+Message.WarnWhoSayBanWord:
+Message.WarnWhoSayBanWordTimes:
+Message.KickWhoSayBanWordAfterWarn:
+Message.KickedByEAC:
+Message.BannedByEAC:
+Message.NoticeByEAC:
+Message.TempBannedByEAC:
+Message.TempBannedForSpamQuitting:
+Message.KickedByWhiteList:
+Message.SetLevel:
+Message.SetColor:
+Message.SetName:
+Message.AllowLevelRange:
+Message.AllowNameLength:
+Message.OnlyCanUseInLobby:
+Message.CanNotUseInLobby:
+Message.CanNotUseByHost:
+Message.TryFixName:
+Message.CanNotFindRoleThePlayerEnter:
+Message.PlayerQuitForever:
+Message.MadmateSelfVoteModeNotify:
+Message.HostLeftGameInGame:
+Message.HostLeftGameInLobby:
+Message.HostLeftGameNewHostIsMod:
+Message.HostLeftGameNewHostIsNotMod:
+Message.LobbyShared:
+Message.LobbyShareFailed:
+Message.YTPlanDisabled:
+Message.YTPlanSelected:
+Message.YTPlanSelectFailed:
+Message.YTPlanCanNotFindRoleThePlayerEnter:
+Message.YTPlanNotice:
+Message.OnlyCanBeUsedByHost:
+Message.MaxPlayers:
+Message.GhostRoleInfo:
+Message.MeCommandInfo:
+Message.MeCommandTargetInfo:
+Message.MeCommandInvalidID:
+Message.MeCommandNoPermission:
+PollTitle:
+PollResultTitle:
+Poll.Result:
+Poll.Tied:
+Poll.MissingPlayers:
+Poll.Begin:
+Poll.TimeInfo:
+Poll.OnlyInLobby:
+Poll.Inactive:
+Poll.AlreadyVoted:
+Poll.VotingInfo:
+Poll.YouVoted:
+PollUsage:
+Replay:
+EnableGadientTags:
+Warning.GradientTags:
+WarningTitle:
+Warning.BrokenVentsInDleksSendInGame:
+Warning.BrokenVentsInDleksMessage:
+AntiBlackoutProtectionTitle:
+Warning.AntiBlackoutProtectionMsg:
+Warning.ShowAntiBlackExiledPlayer:
+DisableAntiBlackoutProtects:
+Warning.MismatchedVersion:
+Warning.AutoExitAtMismatchedVersion:
+Warning.CanNotUseBepInExConsole:
+Error.InvalidColorPreventStart:
+ERR-002-000-1:
+MessageFromEAC:
+DetectiveNoticeTitle:
+SleuthNoticeTitle:
+GuessKillTitle:
+CelebrityNewsTitle:
+CyberNewsTitle:
+GodAliveTitle:
+WorkaholicAliveTitle:
+BaitAliveTitle:
+MessageFromKPD:
+MessageFromSponsor:
+MessageFromDev:
+FortuneTellerCheckMsgTitle:
+MimicMsgTitle:
+MorticianCheckTitle:
+NemesisRevengeTitle:
+RetributionistRevengeTitle:
+TabVanilla.GameSettings:
+TabGroup.SystemSettings:
+TabGroup.ModSettings:
+TabGroup.ModifierSettings:
+TabMenuDescription_General:
+TabMenuDescription_Roles&AddOns:
+Experimental.Roles:
+deletingFiles:
+UnsupportedVersion:
+EatenByPelican:
+FireworkerPutPhase:
+FireworkerWaitPhase:
+FireworkerReadyFirePhase:
+EnterVentWinCountDown:
+ColoredOff:
+HexMasterModeHex:
+HexMasterModeKill:
+PoisonerPoisonButtonText:
+HexMasterModeDouble:
+Settings:
+LastEndReason:
+RoleRate:
+RoleOn:
+RoleOff:
+Chance0:
+Chance5:
+Chance10:
+Chance15:
+Chance20:
+Chance25:
+Chance30:
+Chance35:
+Chance40:
+Chance45:
+Chance50:
+Chance55:
+Chance60:
+Chance65:
+Chance70:
+Chance75:
+Chance80:
+Chance85:
+Chance90:
+Chance95:
+Chance100:
+Standard:
+Format.Times:
+Format.Health:
+Format.Level:
+ReportButtonText:
+VentButtonText:
+SabotageButtonText:
+FireworkerExplosionButtonText:
+FireworkerInstallAtionButtonText:
+MercenarySuicideButtonText:
+NinjaShapeshiftText:
+NinjaMarkButtonText:
+MinerTeleButtonText:
+WarlockShapeshiftButtonText:
+InnocentButtonText:
+PelicanButtonText:
+DeceiverButtonText:
+PursuerButtonText:
+GangsterButtonText:
+RevolutionistDrawButtonText:
+HaterButtonText:
+MedicalerButtonText:
+DemonButtonText:
+SoulCatcherButtonText:
+LightningButtonText:
+ProvocateurButtonText:
+ButcherButtonText:
+BomberShapeshiftText:
+QuickShooterShapeshiftText:
+CamouflagerShapeshiftTextBeforeDisguise:
+CamouflagerShapeshiftTextAfterDisguise:
+AnonymousShapeshiftText:
+CleanerReportButtonText:
+SwooperVentButtonText:
+SwooperRevertVentButtonText:
+WraithVentButtonText:
+WraithRevertVentButtonText:
+VectorVentButtonText:
+VeteranVentButtonText:
+GrenadierVentButtonText:
+MayorVentButtonText:
+SheriffKillButtonText:
+UndertakerButtonText:
+ArsonistVentButtonText:
+RevolutionistVentButtonText:
+FollowerKillButtonText:
+PacifistVentButtonText:
+CultistKillButtonText:
+InfectiousKillButtonText:
+MonarchKillButtonText:
+OverseerKillButtonText:
+FailToTrack:
+KillCount:
+CantUse.lastroles:
+IllegalColor:
+DisableUseCommand:
+SureUse.quit:
+PlayerIdList:
+CancelStartCountDown:
+RestTOHESetting:
+FPSSetTo:
+HostKillSelfByCommand:
+SyncCustomSettingsRPC:
+Mode:
+Target:
+PlayerInfo:
+NoInfoExists:
+PlayerLeftByAU-Anticheat:
+PlayerLeftByError:
+MsgKickOtherPlatformPlayer:
+KickBecauseLowLevel:
+TempBannedBecauseLowLevel:
+KickBecauseDiffrentVersionOrMod:
+FFADisplayScore:
+FFATimeRemain:
+GameOver:
+TOHEOptions:
+Cancel:
+Back:
+Yes:
+No:
+AntiBlackOutLoggerSendInGame:
+AntiBlackOutNotifyInLobby:
+EndWhenPlayerBug:
+AntiBlackOutRequestHostToForceEnd:
+AntiBlackOutHostRejectForceEnd:
+RpcAntiBlackOutNotifyInLobby:
+RpcAntiBlackOutEndGame:
+RpcAntiBlackOutIgnored:
+NextPage:
+PreviousPage:
+EAC.CheatDetected.EAC:
+PressF1ShowMainRoleDes:
+PressF2ShowAddRoleDes:
+PressF3ShowRoleSettings:
+PressF4ShowAddOnsSettings:
+FakeTask:
+PVP.ATK:
+PVP.DF:
+PVP.RCO:
+SettingsAreLoading:
+EAC.CheatDetected.HighLevel:
+EAC.CheatDetected.LowLevel:
+ExiledJester:
+JesterMeetingLoose:
+ExiledExeTarget:
+ExiledInnocentTargetAddBelow:
+ExiledInnocentTargetInOneLine:
+IsGood:
+BelongTo:
+PlayerIsRole:
+PlayerExiled:
+NoImpRemain:
+OneImpRemain:
+TwoImpRemain:
+ThreeImpRemain:
+ImpRemain:
+NeutralRemain:
+OneNeutralRemain:
+GameOverReason.HumansByVote:
+GameOverReason.HumansByTask:
+GameOverReason.HumansDisconnect:
+GameOverReason.ImpostorByVote:
+GameOverReason.ImpostorByKill:
+GameOverReason.ImpostorBySabotage:
+GameOverReason.ImpostorDisconnect:
+FortuneTellerCheck.Honest:
+FortuneTellerCheck.Impulse:
+FortuneTellerCheck.Weirdo:
+FortuneTellerCheck.Blockbuster:
+FortuneTellerCheck.Strong:
+FortuneTellerCheck.Incomprehensible:
+FortuneTellerCheck.Enthusiasm:
+FortuneTellerCheck.Disturbed:
+FortuneTellerCheck.None:
+FortuneTellerCheck.Glitch:
+FortuneTellerCheck.HideMsg:
+FortuneTellerCheck.Love:
+FortuneTellerCheck.TaskDone:
+DevAndSpnTitle:
+FortuneTellerCheck.Null:
+FortuneTellerCheck.Result:
+SunnyboyChance:
+BardChance:
+SkeldChance:
+MiraChance:
+PolusChance:
+DleksChance:
+AirshipChance:
+FungleChance:
+UseMoreRandomMapSelection:
+CamouflageMode.Default:
+CamouflageMode.Host:
+CamouflageMode.Random:
+CamouflageMode.OnlyRandomColor:
+CamouflageMode.Karpe:
+CamouflageMode.Lauryn:
+CamouflageMode.Moe:
+CamouflageMode.Pyro:
+CamouflageMode.ryuk:
+CamouflageMode.Gurge44:
+CamouflageMode.TommyXL:
+CamouflageMode.Sarha:
+DeathCmd.HeyPlayer:
+DeathCmd.YouAreRole:
+DeathCmd.NotDead:
+DeathCmd.KillerName:
+DeathCmd.KillerRole:
+DeathCmd.DeathReason:
+DeathCmd.YourName:
+DeathCmd.YourRole:
+DeathCmd.Ejected:
+DeathCmd.Misfired:
+DeathCmd.Shrouded:
+DeathCmd.Lovers:
+RpsCommandInfo:
+RpsDraw:
+RpsLose:
+RpsWin:
+CoinFlipCommandInfo:
+CoinFlipResult:
+GNoCommandInfo:
+GNoLost:
+GNoLow:
+GNoHigh:
+GNoWon:
+RandCommandInfo:
+RandResult:
+8BallTitle:
+8BallYes:
+8BallNo:
+8BallMaybe:
+8BallTryAgainLater:
+8BallCertain:
+8BallNotLikely:
+8BallLikely:
+8BallDontCount:
+8BallStop:
+8BallPossibly:
+8BallProbably:
+8BallProbablyNot:
+8BallBetterNotTell:
+8BallCantPredict:
+8BallWithoutDoubt:
+8BallWithDoubt:
+ChanceToMiss:
+SoulCollectorPointsToWin:
+SoulCollectorTarget:
+SoulCollectorTitle:
+SoulCollector_CollectOwnSoulOpt:
+SoulCollectorSelfVote:
+ChronomancerKillCooldown:
+ChronomancerDecreaseTime:
+ChronomancerStartMassacre:
+ChronomancerVisionMassacre:
+ShamanButtonText:
+ShamanTargetAlreadySelected:
+Shaman_KillerCannotMurderChosenTarget:
+VoodooCooldown:
+AdminWarning:
+VitalsWarning:
+DoorlogWarning:
+CameraWarning:
+MinWaitAutoStart:
+MaxWaitAutoStart:
+PlayerAutoStart:
+AutoStartTimer:
+ImmediateAutoStart:
+ImmediateStartTimer:
+StartWhenPlayersReach:
+StartWhenTimerLowerThan:
+AutoPlayAgainCountdown:
+AutoPlayAgain:
+AutoRehost:
+CountdownText:
+TimeMasterSkillDuration:
+TimeMasterSkillCooldown:
+TimeMasterOnGuard:
+TimeMasterSkillStop:
+TimeMasterVentButtonText:
+BodyCannotBeReported:
+BurstKillDelay:
+BurstNotify:
+ImpCanBeBurst:
+CrewCanBeBurst:
+NeutralCanBeBurst:
+BurstFailed:
+ShroudButtonText:
+ShroudCooldown:
+Message.Shrouded:
+LudopathRandomKillCD:
+UnderdogMaximumPlayersNeededToKill:
+GodfatherTargetCountMode:
+GodfatherCount_Refugee:
+GodfatherCount_Madmate:
+MissChance:
+IncreaseByOneIfConvert:
+HawkMissed:
+HawkCanKillNum:
+HawkKillMax:
+HawkKillTooManyDead:
+MinimumPlayersAliveToKill:
+BloodMoonCanKillNum:
+BloodMoonTimeTilDie:
+DeathTimer:
+BerserkerKillCooldown:
+BerserkerMax:
+BerserkerOneCanKillCooldown:
+BerserkerOneKillCooldown:
+BerserkerTwoCanScavenger:
+BerserkerThreeCanBomber:
+BerserkerFourCanNotKill:
+BerserkerMaxReached:
+BerserkerLevelChanged:
+BerserkerLevelRequirement:
+KilledByBerserker:
+ImpCanBeUnlucky:
+CrewCanBeUnlucky:
+NeutralCanBeUnlucky:
+BlackmailerSkillCooldown:
+BlackmailerMax:
+BlackmailerDead:
+BlackmaileKillTitle:
+UnluckyTaskSuicideChance:
+UnluckyKillSuicideChance:
+UnluckyVentSuicideChance:
+UnluckyReportSuicideChance:
+UnluckyOpenDoorSuicideChance:
+ImpCanBeVoidBallot:
+CrewCanBeVoidBallot:
+NeutralCanBeVoidBallot:
+ImpCanBeAware:
+NeutralCanBeAware:
+CrewCanBeAware:
+AwareKnowRole:
+AwareInteracted:
+AwareTitle:
+LighterVentButtonText:
+LighterSkillCooldown:
+LighterSkillDuration:
+LighterVisionNormal:
+LighterVisionOnLightsOut:
+LighterSkillInUse:
+LighterSkillStop:
+StealthDarkened:
+PenguinKillButtonText:
+PenguinTimerText:
+PenguinTargetOnCheckMurder:
+WitnessTime:
+WitnessButtonText:
+WitnessFoundInnocent:
+WitnessFoundKiller:
+SwapperMax:
+CanSwapSelfVotes:
+SwapperTrialMax:
+CantSwapSelf:
+SwapVote:
+SwapDead:
+SwapNull:
+SwapHelp:
+Swap1:
+Swap2:
+CancelSwap:
+CancelSwapDueToTarget:
+Swap1=Swap2:
+SwapTitle:
+SwapperTryHideMsg:
+SwapperPreResult:
+ImpCanBeFragile:
+NeutralCanBeFragile:
+CrewCanBeFragile:
+ImpCanKillFragile:
+NeutralCanKillFragile:
+CrewCanKillFragile:
+FragileKillerLunge:
+CrusaderSkillLimit:
+CrusaderSkillCooldown:
+CrusaderKillButtonText:
+JailorKillButtonText:
+AgitaterKillButtonText:
+HasSerialKillerBuddy:
+ChanceToSpawn:
+ChanceToSpawnAnother:
+BloodthirstKillCD:
+BloodthirstPlayerCount:
+ReflectHarmfulInteractions:
+ImpCanBeDiseased:
+NeutralCanBeDiseased:
+CrewCanBeDiseased:
+DiseasedCDOpt:
+DiseasedCDReset:
+ImpCanBeAntidote:
+NeutralCanBeAntidote:
+CrewCanBeAntidote:
+AntidoteCDOpt:
+AntidoteCDReset:
+ImpCanBeRadar:
+NeutralCanBeRadar:
+CrewCanBeRadar:
+ImpCanBeGlow:
+NeutralCanBeGlow:
+CrewCanBeGlow:
+GlowRadius:
+GlowVisionOthers:
+GlowVisionSelf:
+ImpCanBeStubborn:
+NeutralCanBeStubborn:
+CrewCanBeStubborn:
+ImpCanBeAvanger:
+NeutralCanBeAvanger:
+CrewCanBeAvanger:
+ImpCanBeSleuth:
+CrewCanBeSleuth:
+NeutralCanBeSleuth:
+SleuthCanKnowKillerRole:
+SleuthNoticeKiller:
+SleuthNoticeVictim:
+SleuthNoticeKillerNotFound:
+BomberDiesInExplosion:
+ImpostorsSurviveBombs:
+PunchingBagKillMax:
+GuessPunchingBag:
+GuessPunchingBagAgain:
+PunchingBagKill:
+SelfGuessPunchingBag:
+GuessPunchingBagBlocked:
+EradicatePunchingBag:
+RememberCooldown:
+RefugeeKillCD:
+RememberedNeutralKiller:
+RememberedMaverick:
+RememberedPursuer:
+RememberedFollower:
+RememberedAmnesiac:
+RememberedImitator:
+RememberedImpostor:
+RememberedCrewmate:
+ImitatorImitated:
+ImitatorInvalidTarget:
+RememberButtonText:
+ImitatorKillButtonText:
+IncompatibleNeutralMode:
+RememberedYourRole:
+YouRememberedRole:
+BanditStealMode:
+BanditStealMode_OnMeeting:
+BanditStealMode_Instantly:
+BanditMaxSteals:
+BanditCanStealBetrayalAddon:
+BanditCanStealImpOnlyAddon:
+Bandit_NoStealableAddons:
+BanditStealCooldown:
+DoppelMaxSteals:
+DoppelCurrentVictimCanSeeRolesAsDead:
+NecromancerRevengeTime:
+NecromancerRevenge:
+NecromancerSuccess:
+NecromancerHide:
+RetributionistDeadMsg:
+RetributionistAliveKill:
+RetributionistKillMax:
+RetributionistKillDead:
+RetributionistKillSucceed:
+RetributionistKillDisable:
+CanOnlyRetributeWithTasksDone:
+RetributionistCanKillNum:
+RetributionistKillTooManyDead:
+MinimumPlayersAliveToRetri:
+MinimumNoKillerEjectsToKill:
+ImmuneToAttacksWhenTasksDone:
+TwisterCooldown:
+TwisterButtonText:
+TwisterHideTwistedPlayerNames:
+InstigatorAbilityLimit:
+InstigatorKillsPerAbilityUse:
+CrewCanFindCaptain:
+MadmateCanFindCaptain:
+ReducedSpeed:
+ReducedSpeedTime:
+CaptainCanTargetNB:
+CaptainCanTargetNE:
+CaptainCanTargetNC:
+CaptainCanTargetNK:
+CaptainSpeedReduced:
+CaptainRevealTaskRequired:
+CaptainSlowTaskRequired:
+InspectorTryHideMsg:
+MaxInspectCheckLimit:
+InspectCheckLimitPerMeeting:
+InspectCheckTargetKnow:
+InspectCheckOtherTargetKnow:
+InspectorDead:
+InspectCheckMax:
+InspectCheckRound:
+InspectCheckSelf:
+InspectCheckReveal:
+InspectCheckTitle:
+InspectCheckTrue:
+InspectCheckFalse:
+InspectCheckTargetMsg:
+InspectCheckHelp:
+InspectCheckNull:
+InspectCheckBaitCountMode:
+InspectCheckRevealTarget:
+InspectorTargetReveal:
+EgoistCountMode.Original:
+EgoistCountMode.Neutral:
+JailerJailCooldown:
+JailerMaxExecution:
+JailerNBCanBeExe:
+JailerNCCanBeExe:
+JailerNECanBeExe:
+JailerNKCanBeExe:
+JailerCKCanBeExe:
+JailerTargetAlreadySelected:
+SuccessfullyJailed:
+CantGuessJailed:
+JailedCanOnlyGuessJailer:
+CanNotTrialJailed:
+notifyJailedOnMeeting:
+JailedNotifyMsg:
+JailerTitle:
+CopyCatCopyCooldown:
+CopyCatRoleChange:
+CopyCatCanNotCopy:
+CopyButtonText:
+CopyCrewVar:
+CopyTeamChangingAddon:
+MaxCleanserUses:
+CleansedCanGetAddon:
+CleanserTitle:
+CleanserRemoveSelf:
+CleanserCantRemove:
+CleanserRemovedRole:
+LostAddonByCleanser:
+MaxProtections:
+KeeperHideVote:
+KeeperProtect:
+KeeperTitle:
+MaulRadius:
+ImpCanBeAutopsy:
+CrewCanBeAutopsy:
+NeutralCanBeAutopsy:
+ImpCanBeCyber:
+CrewCanBeCyber:
+NeutralCanBeCyber:
+ImpKnowCyberDead:
+CrewKnowCyberDead:
+NeutralKnowCyberDead:
+CyberKnown:
+ImpCanBeInfluenced:
+CrewCanBeInfluenced:
+NeutralCanBeInfluenced:
+ImpCanBeBewilder:
+CrewCanBeBewilder:
+NeutralCanBeBewilder:
+KillerGetBewilderVision:
+ImpCanBeOiiai:
+CrewCanBeOiiai:
+NeutralCanBeOiiai:
+OiiaiCanPassOn:
+NeutralChangeRolesForOiiai:
+LostRoleByOiiai:
+ImpCanBeLoyal:
+CrewCanBeLoyal:
+TasklessCrewCanBeLazy:
+TaskBasedCrewCanBeLazy:
+SheriffCanBeMadmate:
+MayorCanBeMadmate:
+NGuesserCanBeMadmate:
+SnitchCanBeMadmate:
+JudgeCanBeMadmate:
+MarshallCanBeMadmate:
+GanRetributionistCanBeMadmate:
+RetributionistCanBeMadmate:
+OverseerCanBeMadmate:
+GanSheriffCanBeMadmate:
+GanMayorCanBeMadmate:
+GanNGuesserCanBeMadmate:
+GanJudgeCanBeMadmate:
+GanMarshallCanBeMadmate:
+GanOverseerCanBeMadmate:
+RascalAppearAsMadmate:
+CouncillorDead:
+CouncillorMurderMaxMeeting:
+CouncillorMurderMaxGame:
+Councillor_LaughToWhoMurderSelf:
+Councillor_MurderKill:
+Councillor_MurderHelp:
+Councillor_MurderNull:
+Councillor_MurderKillTitle:
+CouncillorMakeEvilJudgeClear:
+Councillor_CannotMurderImpTeam:
+Councillor_SuicideForMurderImps:
+CouncillorMurderLimitPerMeeting:
+CouncillorMurderLimitPerGame:
+CouncillorCanMurderMadmate:
+CouncillorCanMurderImpostor:
+CouncillorSuicideOnJudgeImpTeam:
+CouncillorCanMurderTaskDoneSnitch:
+CouncillorTryHideMsg:
+DazzlerDazzled:
+DazzlerCauseVision:
+DazzlerDazzleLimit:
+DazzlerResetDazzledVisionOnDeath:
+DazzleCooldown:
+DazzleButtonText:
+MoleVentButtonText:
+MoleVentCooldown:
+AddictVentButtonText:
+AddictInvulnerbilityTimeAfterVent:
+AddictSpeedWhileInvulnerble:
+AddictFreezeTimeAfterInvulnerbility:
+AlchemistShieldDur:
+AlchemistInvisDur:
+AlchemistVision:
+AlchemistVisionOnLightsOut:
+AlchemistVisionDur:
+AlchemistSpeed:
+AlchemistVentButtonText:
+AlchemistGotShieldPotion:
+AlchemistGotSightPotion:
+AlchemistGotQFPotion:
+AlchemistGotTPPotion:
+AlchemistGotSuicidePotion:
+AlchemistGotSpeedPotion:
+AlchemistGotBloodthirstPotion:
+AlchemistGotInvisibility:
+NoPotion:
+StoreShield:
+StoreSuicide:
+StoreTP:
+StoreSP:
+StoreQF:
+StoreBL:
+StoreNS:
+StoreINV:
+StoreNull:
+PotionStore:
+WaitQFPotion:
+AlchemistShielded:
+AlchemistHasVision:
+AlchemistShieldOut:
+AlchemistVisionOut:
+AlchemistPotionBloodthirst:
+AlchemistHasSpeed:
+AlchemistSpeedOut:
+DeathpactDuration:
+DeathPactCooldown:
+DeathpactNumberOfPlayersInPact:
+DeathpactShowArrowsToOtherPlayersInPact:
+DeathpactReduceVisionWhileInPact:
+DeathpactVisionWhileInPact:
+DeathpactKillPlayersInDeathpactOnMeeting:
+DeathpactPlayersInDeathpactCanCallMeeting:
+DeathpactActiveDeathpact:
+DeathpactCouldNotAddTarget:
+DeathpactComplete:
+DeathpactExecuted:
+DeathpactAverted:
+DeathpactButtonText:
+DevourerHideNameConsumed:
+DevourCooldown:
+DevourerButtonText:
+DollMasterPossessionButtonText:
+DollMasterUnPossessionButtonText:
+DollMaster_PossessedTarget:
+DollMaster_CannotPossessImpTeammate:
+DollMaster_CouldNotSwapWithTarget:
+DollMaster_CanNotSwapWithDeadTarget:
+DollMaster_MainBody:
+DollMaster_Doll:
+DollMaster_UnableToUseAbility:
+Doppelganger_RoleInfo:
+EatenByDevourer:
+DevourerEatenSkin:
+DevouredName:
+PitfallTrapCooldown:
+PitfallMaxTrapCount:
+PitfallTrapMaxPlayerCount:
+PitfallTrapDuration:
+PitfallTrapRadius:
+PitfallTrapFreezeTime:
+PitfallTrapCauseVision:
+PitfallTrapCauseVisionTime:
+PitfallTrap:
+ConsigliereDivinationMaxCount:
+RitualMaxCount:
+CleanserHideVote:
+OracleSkillLimit:
+OracleHideVote:
+OracleCheckReachLimit:
+OracleCheckSelfMsg:
+OracleCheckLimit:
+OracleCheckMsgTitle:
+OracleCheck.NotCrewmate:
+OracleCheck.Crewmate:
+OracleCheck.Neutral:
+OracleCheck.Impostor:
+OracleCheck:
+FailChance:
+OracleCheckAddons:
+ChameleonCanVent:
+ChameleonInvisState:
+ChameleonInvisStateOut:
+ChameleonInvisInCooldown:
+ChameleonInvisStateCountdown:
+ChameleonInvisCooldownRemain:
+ChameleonCooldown:
+ChameleonDuration:
+ChameleonRevertDisguise:
+ChameleonDisguise:
+KillCooldownAfterCleaning:
+KillCooldownAfterStoneGazing:
+MedusaStoneBody:
+MedusaReportButtonText:
+CursedSoulCurseCooldown:
+CursedSoulCurseCooldownIncrese:
+CursedSoulCurseMax:
+CursedSoulKnowTargetRole:
+CursedSoulCanCurseNeutral:
+CursedSoulKillButtonText:
+SoullessByCursedSoul:
+CursedSoulSoullessPlayer:
+CursedSoulInvalidTarget:
+AdmireCooldown:
+AdmirerKnowTargetRole:
+AdmirerSkillLimit:
+AdmireButtonText:
+AdmirerAdmired:
+AdmiredPlayer:
+AdmirerInvalidTarget:
+SpiritualistNoticeTitle:
+SpiritualistNoticeMessage:
+SpiritualistShowGhostArrowForSeconds:
+SpiritualistShowGhostArrowEverySeconds:
+EnigmaClueStage1Tasks:
+EnigmaClueStage2Tasks:
+EnigmaClueStage3Tasks:
+EnigmaClueStage2Probability:
+EnigmaClueStage3Probability:
+EnigmaClueGetCluesWithoutReporting:
+EnigmaClueHat1:
+EnigmaClueHat2:
+EnigmaClueHat3:
+EnigmaClueSkin1:
+EnigmaClueSkin2:
+EnigmaClueSkin3:
+EnigmaClueVisor1:
+EnigmaClueVisor2:
+EnigmaClueVisor3:
+EnigmaCluePet1:
+EnigmaCluePet2:
+EnigmaCluePet3:
+EnigmaClueName1:
+EnigmaClueName2:
+EnigmaClueName3:
+EnigmaClueNameLength1:
+EnigmaClueNameLength2:
+EnigmaClueColor1:
+EnigmaClueColor2:
+EnigmaClueColor3:
+EnigmaClueLocation:
+EnigmaClueStatus1:
+EnigmaClueStatus2:
+EnigmaClueStatus3:
+EnigmaClueStatus4:
+EnigmaClueRole1:
+EnigmaClueRole2:
+EnigmaClueRole3:
+EnigmaClueRole4:
+EnigmaClueLevel1:
+EnigmaClueLevel2:
+EnigmaClueLevel3:
+EnigmaClueLevel4:
+EnigmaClueFriendCode:
+EnigmaClueHatTitle:
+EnigmaClueVisorTitle:
+EnigmaClueSkinTitle:
+EnigmaCluePetTitle:
+EnigmaClueNameTitle:
+EnigmaClueNameLengthTitle:
+EnigmaClueColorTitle:
+EnigmaClueLocationTitle:
+EnigmaClueStatusTitle:
+EnigmaClueRoleTitle:
+EnigmaClueLevelTitle:
+EnigmaClueFriendCodeTitle:
+VotesPerKill:
+PickpocketGetVote:
+VultureArrowsPointingToDeadBody:
+VultureNumberOfReportsToWin:
+VultureReportBody:
+VultureEatButtonText:
+VultureReportCooldown:
+VultureMaxEatenInOneRound:
+VultureCooldownUp:
+GhastlyPossessCD:
+GhastlyMaxPossessions:
+GhastlyPossessionDuration:
+GhastlySpeed:
+GhastlyKillAllies:
+GhastlyCannotPossessTarget:
+GhastlyChooseTarget:
+GhastlyNoMorePossess:
+GhastlyNotUrTarget:
+GhastlyYouvePosses:
+GhastlyPossessedUser:
+GhastlyExpired:
+TasksMarkPerRound:
+TaskinatorBombPlanted:
+ShieldDuration:
+ShieldIsOneTimeUse:
+BenefactorTaskMarked:
+BenefactorTargetGotShield:
+PirateTryHideMsg:
+SuccessfulDuelsToWin:
+PirateMeetingMsg:
+PirateTargetMeetingMsg:
+PirateTitle:
+PirateTargetAlreadyChosen:
+PirateDead:
+DuelAlreadyDone:
+DuelDone:
+DuelHelp:
+PirateDuelButtonText:
+DuelCooldown:
+Rock:
+Paper:
+Scissors:
+Heads:
+Tails:
+SpyRedNameDur:
+SpyInteractionBlocked:
+AgitaterBombCooldown:
+AgitaterPassCooldown:
+BombExplodeCooldown:
+AgitaterPassNotify:
+AgitaterTargetNotify:
+AgitaterCanGetBombed:
+AgitaterAutoReportBait:
+SeekerPointsToWin:
+SeekerTagCooldown:
+SeekerNotify:
+SeekerTargetNotify:
+SeekerKillButtonText:
+PixiePointsToWin:
+MaxTargets:
+MarkCooldown:
+PixieSuicide:
+PixieMaxTargetReached:
+PixieTargetAlreadySelected:
+PixieButtonText:
+PlagueBearerCooldown:
+PestilenceCooldown:
+PestilenceCanVent:
+PestilenceHasImpostorVision:
+PlagueBearerAlreadyPlagued:
+PlagueBearerToPestilence:
+GuessPestilence:
+RomanticBetCooldown:
+RomanticProtectCooldown:
+RomanticBetPlayer:
+RomanticBetOnYou:
+VengefulKCD:
+VengefulCanVent:
+RuthlessKCD:
+RuthlessCanVent:
+RomanticProtectPartner:
+RomanticIsProtectingYou:
+ProtectingOver:
+RomanticProtectDuration:
+RomanticKnowTargetRole:
+RomanticBetTargetKnowRomantic:
+RomanticPartnerButtonText:
+RomanticProtectButtonText:
+GuessMasterMisguess:
+GuessMasterTargetRole:
+GuessMasterTitle:
+DoomsayerAmountOfGuessesToWin:
+DCanGuessImpostors:
+DCanGuessCrewmates:
+DCanGuessNeutrals:
+DCanGuessAdt:
+DoomsayerAdvancedSettings:
+DoomsayerMaxNumberOfGuessesPerMeeting:
+DoomsayerKillCorrectlyGuessedPlayers:
+DoomsayerDoesNotSuicideWhenMisguessing:
+DoomsayerMisguessRolePrevGuessRoleUntilNextMeeting:
+DoomsayerTryHideMsg:
+DoomsayerCantGuess:
+DoomsayerCorrectlyGuessRole:
+DoomsayerNotCorrectlyGuessRole:
+DoomsayerGuessCountMsg:
+DoomsayerGuessCountTitle:
+DoomsayerGuessSameRoleAgainMsg:
+EveryoneCanKnowMini:
+CanBeEvil:
+EvilMiniSpawnChances:
+GuessMini:
+GrowUpDuration:
+MajorCooldown:
+UpDateAge:
+Cantkillkid:
+CantEat:
+CantShroud:
+CantBoom:
+CantRecruit:
+CantDuel:
+CantMark:
+CantBlood:
+CantPosses:
+ExiledNiceMini:
+MiniUp:
+MiniMisGuessed:
+MiniGuessMax:
+CountMeetingTime:
+YouKillRandomizer1:
+YouKillRandomizer2:
+YouKillRandomizer3:
+YouKillRandomizer4:
+MadmateCanBeHurried:
+TaskBasedCrewCanBeHurried:
+HurriedCanBeConverted:
+Developer:
+Sponsor:
+Booster:
+Translator:
+NoAccess:
+DCNotify.Hacking:
+DCNotify.Banned:
+DCNotify.Kicked:
+DCNotify.DCFromServer:
+DCNotify.GameNotFound:
+DCNotify.GameStarted:
+DCNotify.GameFull:
+DCNotify.IncorrectVersion:
+DCNotify.Inactivity:
+DCNotify.Auth:
+DCNotify.DupeLogin:
+DCNotify.InvalidSettings:
+ModeDescribe.SoloKombat:
+RoleType.VanillaRoles:
+RoleType.ImpKilling:
+RoleType.ImpSupport:
+RoleType.ImpConcealing:
+RoleType.ImpHindering:
+RoleType.ImpGhost:
+RoleType.Madmate:
+RoleType.CrewSupport:
+RoleType.CrewInvestigative:
+RoleType.CrewPower:
+RoleType.CrewKilling:
+RoleType.CrewBasic:
+RoleType.CrewGhost:
+RoleType.NeutralEvil:
+RoleType.NeutralBenign:
+RoleType.NeutralChaos:
+RoleType.NeutralKilling:
+RoleType.Harmful:
+RoleType.Support:
+RoleType.Helpful:
+RoleType.Mixed:
+RoleType.Misc:
+RoleType.Impostor:
+RoleType.Neut:
+SubType.Impostor:
+SubType.Shapeshifter:
+SubType.SemiShapeshifter:
+SubType.Madmate:
+SubType.CrewmateKilling:
+SubType.Crewmate:
+SubType.New:
+CrewmateRoles:
+ImpostorRoles:
+NeutralRoles:
+AddonRoles:
+WinnerRoleText.Impostor:
+WinnerRoleText.Crewmate:
+WinnerRoleText.Terrorist:
+WinnerRoleText.Jester:
+WinnerRoleText.Lovers:
+WinnerRoleText.Executioner:
+WinnerRoleText.Arsonist:
+WinnerRoleText.Revolutionist:
+WinnerRoleText.Jackal:
+WinnerRoleText.God:
+WinnerRoleText.Vector:
+WinnerRoleText.Innocent:
+WinnerRoleText.Pelican:
+WinnerRoleText.Youtuber:
+WinnerRoleText.Necromancer:
+WinnerRoleText.Egoist:
+WinnerRoleText.Demon:
+WinnerRoleText.Stalker:
+WinnerRoleText.Workaholic:
+WinnerRoleText.Collector:
+WinnerRoleText.BloodKnight:
+WinnerRoleText.Poisoner:
+WinnerRoleText.Huntsman:
+WinnerRoleText.HexMaster:
+WinnerRoleText.Cultist:
+WinnerRoleText.Wraith:
+WinnerRoleText.SerialKiller:
+WinnerRoleText.Juggernaut:
+WinnerRoleText.Infectious:
+WinnerRoleText.Virus:
+WinnerRoleText.Specter:
+WinnerRoleText.Jinx:
+WinnerRoleText.CursedSoul:
+WinnerRoleText.PotionMaster:
+WinnerRoleText.Pickpocket:
+WinnerRoleText.Traitor:
+WinnerRoleText.Vulture:
+WinnerRoleText.Medusa:
+WinnerRoleText.Spiritcaller:
+WinnerRoleText.Glitch:
+WinnerRoleText.Pestilence:
+WinnerRoleText.PlagueBearer:
+WinnerRoleText.PunchingBag:
+WinnerRoleText.Doomsayer:
+WinnerRoleText.Pirate:
+WinnerRoleText.Shroud:
+WinnerRoleText.Werewolf:
+WinnerRoleText.Seeker:
+WinnerRoleText.Occultist:
+WinnerRoleText.SoulCollector:
+WinnerRoleText.NiceMini:
+WinnerRoleText.Mini:
+WinnerRoleText.Bandit:
+WinnerRoleText.RuthlessRomantic:
+WinnerRoleText.Solsticer:
+WinnerRoleText.Pyromaniac:
+WinnerRoleText.Doppelganger:
+WinnerRoleText.Quizmaster:
+WinnerRoleText.Agitater:
+AdditionalWinnerRoleText.Sidekick:
+AdditionalWinnerRoleText.Taskinator:
+AdditionalWinnerRoleText.Opportunist:
+AdditionalWinnerRoleText.Lawyer:
+AdditionalWinnerRoleText.Hater:
+AdditionalWinnerRoleText.Provocateur:
+AdditionalWinnerRoleText.Sunnyboy:
+AdditionalWinnerRoleText.Follower:
+AdditionalWinnerRoleText.Pursuer:
+AdditionalWinnerRoleText.Jester:
+AdditionalWinnerRoleText.Lovers:
+AdditionalWinnerRoleText.Executioner:
+AdditionalWinnerRoleText.Specter:
+AdditionalWinnerRoleText.Maverick:
+AdditionalWinnerRoleText.Shaman:
+AdditionalWinnerRoleText.Pixie:
+AdditionalWinnerRoleText.NiceMini:
+AdditionalWinnerRoleText.Romantic:
+AdditionalWinnerRoleText.VengefulRomantic:
+AdditionalWinnerRoleText.SchrodingersCat:
+ErrorEndText:
+ErrorEndTextDescription:
+NiceMiniDied:
+HaterMisFireKillTarget:
+HaterChooseConverted:
+HaterCanKillMadmate:
+HaterCanKillCharmed:
+HaterCanKillLovers:
+HaterCanKillSidekick:
+HaterCanKillEgoist:
+HaterCanKillInfected:
+HaterCanKillContagious:
+HaterCanKillAdmired:
+HorseMode:
+LongMode:
+InfluencedChangeVote:
+FFA:
+ModeFFA:
+ModeDescribe.FFA:
+KillerInfoLong:
+FFA_GameTime:
+FFA_KCD:
+FFA_DisableVentingWhenTwoPlayersAlive:
+FFA_EnableRandomAbilities:
+FFA_ShieldDuration:
+FFA_IncreasedSpeed:
+FFA_DecreasedSpeed:
+FFA_ModifiedSpeedDuration:
+FFA_LowerVision:
+FFA_ModifiedVisionDuration:
+FFA_EnableRandomTwists:
+FFA-Event-GetShield:
+FFA-Event-GetIncreasedSpeed:
+FFA-Event-GetLowKCD:
+FFA-Event-GetHighKCD:
+FFA-Event-GetLowVision:
+FFA-Event-GetDecreasedSpeed:
+FFA-Event-GetTP:
+FFA-Event-RandomTP:
+FFA-NoVentingBecauseTwoPlayers:
+FFA-NoVentingBecauseKCDIsUP:
+FFA_DisableVentingWhenKCDIsUp:
+FFA_TargetIsShielded:
+FFA_ShieldIsOneTimeUse:
+FFA_ShieldBroken:
+Killer:
+KillerInfo:
+Hide&SeekTOHE:
+MenuTitle.Hide&Seek:
+NumImpostorsHnS:
+EveryOneKnowSolsticer:
+SolsticerKnowItsKiller:
+SolsticerSpeed:
+SolsticerRemainingTaskWarned:
+SAddTasksPreDeadPlayer:
+SolsticerMurdered:
+MurderSolsticer:
+SolsticerMurderMessage:
+SolsticerOnMeeting:
+SolsticerTitle:
+GuessSolsticer:
+VoteSolsticer:
+SolsticerTasksReset:
+SolsticerMisGuessed:
+SolsticerGuessMax:
+VoteDead:
+ImpCanBeSilent:
+CrewCanBeSilent:
+NeutralCanBeSilent:
+LastMessageReplay:
+Contributor:
+dbConnect.InitFailure:
+dbConnect.nullFriendCode:
+ImpCanBeSusceptible:
+CrewCanBeSusceptible:
+NeutralCanBeSusceptible:
+Quizmaster:
+QuizmasterInfo:
+QuizmasterInfoLong:
+QuizmasterKillButtonText:
+QuizmasterChat.MarkedBy:
+QuizmasterChat.MarkedPublic:
+QuizmasterChat.Answers:
+QuizmasterChat.CorrectTarget:
+QuizmasterChat.Correct:
+QuizmasterChat.CorrectPublic:
+QuizmasterChat.WrongTarget:
+QuizmasterChat.Wrong:
+QuizmasterChat.WrongPublic:
+QuizmasterChat.Marked:
+QuizmasterChat.Title:
+QuizmasterChat.CantAnswer:
+QuizmasterChat.AnswerNotValid:
+QuizmasterChat.SyntaxNotValid:
+QuizmasterSettings.QuestionDifficulty:
+QuizmasterSettings.CanVentAfterMark:
+QuizmasterSettings.CanKillAfterMark:
+QuizmasterSettings.NumOfKillAfterMark:
+QuizmasterSettings.CanGiveQuestionsAboutPastGames:
+Quizmaster.None:
+QuizmasterSabotages.Lights:
+QuizmasterSabotages.Reactor:
+QuizmasterSabotages.Communications:
+QuizmasterSabotages.O2:
+QuizmasterSabotages.MushroomMixup:
+QuizmasterAnswers.One:
+QuizmasterAnswers.Two:
+QuizmasterAnswers.Three:
+QuizmasterAnswers.Four:
+QuizmasterAnswers.Five:
+QuizmasterAnswers.Pacifist:
+QuizmasterAnswers.Vampire:
+QuizmasterAnswers.Snitch:
+QuizmasterAnswers.Vigilante:
+QuizmasterAnswers.Jackal:
+QuizmasterAnswers.Mole:
+QuizmasterAnswers.Sniper:
+QuizmasterAnswers.Coven:
+QuizmasterAnswers.Sabotuer:
+QuizmasterAnswers.Sorcerers:
+QuizmasterAnswers.Killer:
+QuizmasterAnswers.Edition:
+QuizmasterAnswers.Experimental:
+QuizmasterAnswers.Enhanced:
+QuizmasterAnswers.Edited:
+QuizmasterQuestions.LastSabotage:
+QuizmasterQuestions.FirstRoundSabotage:
+QuizmasterQuestions.LastEjectedPlayerColor:
+QuizmasterQuestions.LastReportPlayerColor:
+QuizmasterQuestions.LastButtonPressedPlayerColor:
+QuizmasterQuestions.MeetingPassed:
+QuizmasterQuestions.HowManyFactions:
+QuizmasterQuestions.BasisOfRole:
+QuizmasterQuestions.FactionOfRole:
+QuizmasterQuestions.FactionRemovedName:
+QuizmasterQuestions.HowManyDiedFirstRound:
+QuizmasterQuestions.ButtonPressedBefore:
+QuizmasterQuestions.WhatDoesEOgMeansInName:
+QuizmasterQuestions.PlrDieReason:
+QuizmasterQuestions.PlrDieMethod:
+LastAddedRoleForKarped:
+QuizmasterQuestions.PlrDieFaction:
+DeathReason.WrongAnswer:
+TPCooldown:
+RiftsTooClose:
+RiftCreated:
+RiftsDestroyed:
+RiftRadius:
+TiredVision:
+TiredSpeed:
+TiredDur:
+ImpCanBeTired:
+CrewCanBeTired:
+NeutralCanBeTired:
+TiredNotify:
+WinnerRoleText.PlagueDoctor:
+StatueSlow:
+StatuePeopleToSlow:
+ImpCanBeStatue:
+CrewCanBeStatue:
+NeutralCanBeStatue:
+WardenIncreaseSpeed:
+WardenWarn:
+MinionAbilityTime:
+Minion_Blind:
+TextBelowVersionText:
+kofi:
+Patreon:
+CrewmateSub:
+ImpostorSub:
+NeutralSub:
+MadmateSub:
+Role.Crewmate:
+Role.Jester:
+Role.Opportunist:
+Role.Convict:
+Role.Celebrity:
+Role.Bodyguard:
+Role.Dictator:
+Role.Mayor:
+Role.Doctor:
+Role.Maverick:
+Role.Witch:
+Role.Pursuer:
+Role.Follower:
+Role.Amnesiac:
+Role.Sheriff:
+Role.Knight:
+Role.Deputy:
+Role.Imitator:
+Role.NoChange:
+AddonSettingsCrew:
+AddonSettingsImp:
+AddonSettingsNeut:
+ClaimAddonSettings:
+BetrayalAddonSettings:
+ImpOnlyAddonSettings:
+CrewOnlyAddonSettings:
+NeutralAddonSettings:
+BasicAddonSettings:
+Nuker:
+Vampiress:
+Assassin:
+BoobyTrap:
+Capitalism:
+BallLightning:
+Greedier:
+ImperiusCurse:
+OverKiller:
+EvilDiviner:
+Convict:
+Needy:
+CyberStar:
+SwordsMan:
+Counterfeiter:
+Divinator:
+Mediumshiper:
+DovesOfNeace:
+Farseer:
+Bloodhound:
+Monitor:
+ChiefOfPolice:
+Mario:
+Konan:
+Gamer:
+DarkHide:
+NWitch:
+Totocalcio:
+Succubus:
+Baker:
+Famine:
+Masochist:
+Ntr:
+Brakar:
+Sunglasses:
+DualPersonality:
+Rogue:
+Bloodlust:
+Repairman:
+Prefix.Ntr:
+Prefix.Watcher:
+Prefix.Overclocked:
+Prefix.Flash:
+Prefix.Torch:
+Prefix.Seer:
+Prefix.Brakar:
+Prefix.Oblivious:
+Prefix.Bewilder:
+Prefix.Workhorse:
+Prefix.Fool:
+Prefix.Avanger:
+Prefix.Youtuber:
+Prefix.Egoist:
+Prefix.TicketsStealer:
+Prefix.DualPersonality:
+Prefix.Mimic:
+Prefix.Bait:
+Prefix.Trapper:
+Prefix.Guesser:
+Prefix.Necroview:
+Prefix.Recruit:
+Prefix.Reach:
+Prefix.Onbound:
+Prefix.Rebound:
+Prefix.Mundane:
+Prefix.Knighted:
+Prefix.Unreportable:
+Prefix.Rogue:
+Prefix.Lucky:
+Prefix.DoubleShot:
+Prefix.Rascal:
+Prefix.Gravestone:
+Prefix.Lazy:
+Prefix.Autopsy:
+Prefix.Loyal:
+Prefix.EvilSpirit:
+Prefix.Glow:
+Prefix.Diseased:
+Prefix.Antidote:
+Prefix.Stubborn:
+Prefix.Cleansed:
+Prefix.Swift:
+Prefix.Unlucky:
+Prefix.VoidBallot:
+Prefix.Aware:
+Prefix.Fragile:
+Prefix.Ghoul:
+Prefix.Bloodlust:
+Prefix.Sunglasses:
+Prefix.Mare:
+Prefix.Burst:
+Prefix.Sleuth:
+Prefix.Clumsy:
+Prefix.Nimble:
+Prefix.Circumvent:
+Prefix.Repairman:
+Prefix.Hurried:
+Prefix.Oiiai:
+Prefix.Influenced:
+Prefix.Cyber:
+Prefix.Silent:
+Prefix.Susceptible:
+Prefix.Rainbow:
+Prefix.Tired:
+PrefixB.Ntr:
+PrefixB.Watcher:
+PrefixB.Overclocked:
+PrefixB.Flash:
+PrefixB.Torch:
+PrefixB.Seer:
+PrefixB.Brakar:
+PrefixB.Oblivious:
+PrefixB.Bewilder:
+PrefixB.Workhorse:
+PrefixB.Fool:
+PrefixB.Avanger:
+PrefixB.Youtuber:
+PrefixB.Egoist:
+PrefixB.TicketsStealer:
+PrefixB.DualPersonality:
+PrefixB.Mimic:
+PrefixB.Bait:
+PrefixB.Trapper:
+PrefixB.Guesser:
+PrefixB.Necroview:
+PrefixB.Recruit:
+PrefixB.Reach:
+PrefixB.Onbound:
+PrefixB.Rebound:
+PrefixB.Mundane:
+PrefixB.Knighted:
+PrefixB.Unreportable:
+PrefixB.Rogue:
+PrefixB.Lucky:
+PrefixB.DoubleShot:
+PrefixB.Rascal:
+PrefixB.Gravestone:
+PrefixB.Lazy:
+PrefixB.Autopsy:
+PrefixB.Loyal:
+PrefixB.EvilSpirit:
+PrefixB.Glow:
+PrefixB.Diseased:
+PrefixB.Antidote:
+PrefixB.Stubborn:
+PrefixB.Cleansed:
+PrefixB.Swift:
+PrefixB.Unlucky:
+PrefixB.VoidBallot:
+PrefixB.Aware:
+PrefixB.Fragile:
+PrefixB.Ghoul:
+PrefixB.Bloodlust:
+PrefixB.Sunglasses:
+PrefixB.Mare:
+PrefixB.Burst:
+PrefixB.Sleuth:
+PrefixB.Clumsy:
+PrefixB.Nimble:
+PrefixB.Circumvent:
+PrefixB.Repairman:
+PrefixB.Hurried:
+PrefixB.Oiiai:
+PrefixB.Cyber:
+PrefixB.Influenced:
+PrefixB.Silent:
+PrefixB.Susceptible:
+PrefixB.Rainbow:
+PrefixB.Tired:
+VampiressInfo:
+AssassinInfo:
+BoobyTrapInfo:
+CapitalismInfo:
+BallLightningInfo:
+GreedierInfo:
+ImperiusCurseInfo:
+OverKillerInfo:
+EvilDivinerInfo:
+NeedyInfo:
+CyberStarInfo:
+SwordsManInfo:
+CounterfeiterInfo:
+DivinatorInfo:
+MediumshiperInfo:
+DovesOfNeaceInfo:
+FarseerInfo:
+BloodhoundInfo:
+TrackerInfo:
+MonitorInfo:
+ChiefOfPoliceInfo:
+MarioInfo:
+KonanInfo:
+GamerInfo:
+DarkHideInfo:
+NWitchInfo:
+TotocalcioInfo:
+SuccubusInfo:
+NSerialKillerInfo:
+PhantomInfo:
+BakerInfo:
+FamineInfo:
+MasochistInfo:
+NtrInfo:
+BrakarInfo:
+DualPersonalityInfo:
+RogueInfo:
+BloodlustInfo:
+SunglassesInfo:
+RepairmanInfo:
+NukerInfo:
+VampiressInfoLong:
+AssassinInfoLong:
+BoobyTrapInfoLong:
+CapitalismInfoLong:
+BallLightningInfoLong:
+GreedierInfoLong:
+ImperiusCurseInfoLong:
+OverKillerInfoLong:
+ConvictInfoLong:
+EvilDivinerInfoLong:
+NeedyInfoLong:
+CyberStarInfoLong:
+SwordsManInfoLong:
+CounterfeiterInfoLong:
+DivinatorInfoLong:
+MediumshiperInfoLong:
+DovesOfNeaceInfoLong:
+FarseerInfoLong:
+BloodhoundInfoLong:
+TrackerInfoLong:
+MonitorInfoLong:
+ChiefOfPoliceInfoLong:
+MarioInfoLong:
+GamerInfoLong:
+DarkHideInfoLong:
+NWitchInfoLong:
+TotocalcioInfoLong:
+SuccubusInfoLong:
+NSerialKillerInfoLong:
+PhantomInfoLong:
+BakerInfoLong:
+FamineInfoLong:
+MasochistInfoLong:
+OccultistInfoLong:
+NtrInfoLong:
+BrakarInfoLong:
+DualPersonalityInfoLong:
+RogueInfoLong:
+BloodlustInfoLong:
+SunglassesInfoLong:
+RepairmanInfoLong:
+NukerInfoLong:
+AbilityUseGainWithEachKill:
+AddedTheAirship:
+ModeForSmallScreen:
+EnableRoleSummary:
+FastBoot:
+DisableHiddenRoles:
+SpawnRandomLocation:
+SpawnRandomVents:
+TempBanPlayerFriendCodeNotExist:
+ConfirmRogueOnEject:
+SidekickKnowOtherSidekick:
+SidekickKnowOtherSidekickRole:
+SidekickCanKillSidekick:
+LegacyMafia:
+PuppetCountForDoubleKill:
+HackCooldown:
+HackDuration:
+MimicCooldown:
+MimicDuration:
+MimicButtonText:
+MimicDur:
+HackCD:
+KCD:
+MimicCD:
+VentCooldown:
+CrewmatesCanBeSidekick:
+NeutralsCanBeSidekick:
+ImpostorsCanBeSidekick:
+SidekickCanKillJackal:
+CanKillAllies:
+CanKillSelf:
+HasSidekick:
+ImpKnowAlliesRole:
+GCanGuessNeutrals:
+ShapeshiftDuration:
+ShapeshiftCooldown:
+VitalsDuration:
+VitalsCooldown:
+DeadCrewCantSabotage:
+DeadNeutralCantSabotage:
+KillCooldownNormally:
+SpeedBoosterTimes:
+MayorHideVote:
+HideJesterVote:
+CanTargetNeutralBenign:
+CanTargetNeutralEvil:
+CanTargetNeutralChaos:
+UndertakerKillCooldown:
+UndertakerSSCooldown:
+UndertakerSSDuration:
+ImpCanBeRogue:
+CrewCanBeRogue:
+NeutralCanBeRogue:
+RogueKnowEachOtherRoles:
+RogueKnowEachOther:
+ParanoiaVentCooldown:
+ParanoiaNumOfUseButton:
+MafiaCanKillNum:
+ImpKnowCyberStarDead:
+NeutralKnowCyberStarDead:
+JesterCanUseButton:
+MarioVentNumWin:
+ArroganceDefaultKillCooldown:
+ArroganceReduceKillCooldown:
+ArroganceMinKillCooldown:
+CapitalismSkillCooldown:
+ImpCanBeDualPersonality:
+CrewCanBeDualPersonality:
+HideDualVotes:
+CounterfeiterSkillCooldown:
+CounterfeiterSkillLimitTimes:
+CounterfeiterAbilityLost:
+SeeMedicAndTarget:
+SeeMedic:
+SeeTarget:
+SeeNoone:
+DeactivationImmediately:
+DeactivationAfterMeeting:
+DeactivationIsVisibleOFF:
+DivinatorSkillLimit:
+SidekickCountMode:
+SidekickCountMode.None:
+SidekickCountMode.Jackal:
+SidekickCountMode.Original:
+SidekickAssignMode:
+SidekickAssignMode.SidekickAndRecruit:
+SidekickAssignMode.Sidekick:
+SidekickAssignMode.Recruit:
+ContagiousCountMode:
+ContagiousCountMode.None:
+ContagiousCountMode.Virus:
+ContagiousCountMode.Original:
+GamerKillCooldown:
+GamerHealthMax:
+GamerDamage:
+GamerSelfHealthMax:
+GamerSelfDamage:
+BallLightningConvertTime:
+BallLightningKillCooldown:
+BallLightningKillerConvertGhost:
+OddKillCooldown:
+EvenKillCooldown:
+GuardSpellTimes:
+killAttacker:
+AssassinMarkCooldown:
+AssassinAssassinateCooldown:
+AssassinCanKillAfterAssassinate:
+TrialLimitPerMeeting:
+TotocalcioMaxBetTimes:
+TotocalcioBetCooldown:
+TotocalcioMaxBetCooldown:
+TotocalcioBetCooldownIncrese:
+TotocalcioKnowTargetRole:
+TotocalcioBetTargetKnowTotocalcio:
+DivinatorHideVote:
+SuccubusCharmCooldown:
+SuccubusCharmCooldownIncrese:
+SuccubusCharmMax:
+SuccubusKnowTargetRole:
+SuccubusTargetKnowOtherTarget:
+SuccubusCanCharmNeutral:
+InfectiousBiteCooldownIncrese:
+VirusKillCooldown:
+VirusCanVent:
+CharmedCountMode:
+CharmedCountMode.None:
+CharmedCountMode.Succubus:
+CharmedCountMode.Original:
+ResetKillCooldownWhenPlayerGetKilled:
+ResetKillCooldownOn:
+SidekickCanWinWithOriginalTeam:
+MediumshiperContactLimit:
+MediumshiperOnlyReceiveMsgFromCrew:
+DovesOfNeaceCooldown:
+DovesOfNeaceMaxOfUseage:
+BloodhoundArrowsPointingToDeadBody:
+BloodhoundLeaveDeadBodyUnreportable:
+BloodhoundInformKillerBeingTracked:
+TrackerHideVote:
+TrackerCanGetArrowColor:
+CanBeSoldByMerchant:
+CanBeGuessed:
+GuessTaskDone:
+CanBeInLove:
+KickExample:
+CanHandcuffSheriff:
+CrewKillingShowAs:
+NeutralKillingShowAs:
+PassiveNeutralsShowAs:
+InvestigatorInvestigatedRole:
+InvestigatorInvestigatedCrew:
+InvestigatorInvestigatedNotCrew:
+RoleRevealMode:
+ShowNeutralCount:
+DisableSunnyboy:
+DisableBard:
+DisableSaboteur:
+MafiaDeadMsg:
+MafiaAliveKill:
+MafiaKillMax:
+MafiaKillDead:
+MafiaKillSucceed:
+MafiaKillDisable:
+CyberStarDead:
+LaughToWhoTrialSelf:
+TrialKill:
+TrialHelp:
+TrialNull:
+DivinatorCheck:
+DivinatorCheckLimit:
+DivinatorCheckSelfMsg:
+DivinatorCheckReachLimit:
+DivinatorAlreadyCheckedMsg:
+MediumshipHelp:
+MediumshipYes:
+MediumshipNo:
+MediumshipDone:
+MediumshipNotifyTarget:
+MediumshipNotifySelf:
+MediumshiperKnowPlayerDead:
+ExecutionerRoleChanged:
+SpeedBoosterTaskDone:
+SpeedBoosterSpeedLimit:
+BloodlustAdded:
+OnCyberStarDead:
+TotocalcioBetPlayer:
+TotocalcioBetOnYou:
+SuccubusCharmedPlayer:
+CharmedBySuccubus:
+SuccubusInvalidTarget:
+GuessPhantom:
+DovesOfNeaceOnGuard:
+DovesOfNeaceMaxUsage:
+DovesOfNeaceSkillNotify:
+BloodhoundTrackRecorded:
+BloodhoundNoTrack:
+BloodhoundIsTrackingYou:
+TrackerLastRoomMessage:
+TrapOnlyWorksOnTheBodyBoobyTrap:
+FarseerRevealCooldown:
+FarseerRevealTime:
+FarseerVision:
+MerchantSellNeutral:
+Message.TempBannedByNoFriendCode:
+Warning.TemporaryAntiBlackoutFix:
+TemporaryAntiBlackoutFix:
+AntiBlackoutFixTitle:
+NeutralKillingBlackoutWarning:
+CyberStarNewsTitle:
+DivinatorCheckMsgTitle:
+TrialKillTitle:
+MediumshipTitle:
+MafiaRevengeTitle:
+NecromancerRevengeTitle:
+TrackerTitle:
+Temp.Blank:
+TabGroup.GameSettings:
+TabGroup.OtherRoles:
+TabGroup.TaskSettings:
+OtherRoles.CrewmateRoles:
+OtherRoles.NeutralRoles:
+OtherRoles.ImpostorRoles:
+OtherRoles.Addons:
+announcementChangelog:
+downloadFailed:
+RoleRateNoColor:
+RoleOnNoColor:
+RoleOffNoColor:
+SoloKombat:
+ModeSoloKombat:
+AssassinMarkButtonText:
+WitchControlButtonText:
+CapitalismButtonText:
+CounterfeiterButtonText:
+GamerButtonText:
+ImperiusCurseButtonText:
+BallLightningButtonText:
+OverKillerButtonText:
+AssassinShapeshiftText:
+CamouflagerShapeshiftText:
+DefaultRevertShapeshiftText:
+ParanoiaVentButtonText:
+TotocalcioKillButtonText:
+DovesOfNeaceVentButtonText:
+SuccubusKillButtonText:
+FarseerKillButtonText:
+Mad-:
+Cleansed-:
+Ego-:
+turnOn:
+turnOff:
+TOHEVisitorCount:
+MsgKickXboxPlayer:
+MsgKickPlayStationPlayer:
+MsgKickNintendoPlayer:
+Loading:
+DivinatorCheck.Honest:
+DivinatorCheck.Impulse:
+DivinatorCheck.Weirdo:
+DivinatorCheck.Blockbuster:
+DivinatorCheck.Strong:
+DivinatorCheck.Incomprehensible:
+DivinatorCheck.Enthusiasm:
+DivinatorCheck.Disturbed:
+DivinatorCheck.None:
+DivinatorCheck.Glitch:
+DivinatorCheck.HideMsg:
+DivinatorCheck.Love:
+DivinatorCheck.TaskDone:
+DivinatorCheck.Null:
+DivinatorCheck.Result:
+VampiressChance:
+NukerChance:
+ImpCanBeClumsy:
+NeutralCanBeClumsy:
+CollectOwnSoulOpt:
+Occultist Text Strings:
+CursesLookLikeSpells:
+OccultistModeDouble:
+OccultistModeCurse:
+OccultistModeKill:
+OccultistButtonText:
+ConjGuessMax:
+ConjCanGuessAdt:
+RefugeeSettings:
+AntiAdminerAD:
+AntiAdminerVI:
+AntiAdminerDL:
+AntiAdminerCA:
+ShroudAlertMessage:
+GodfatherCount.Refugee:
+GodfatherCount.Madmate:
+BlackmailerShutUp:
+UnluckySabotageSuicideChance:
+UnluckyShapeshiftSuicideChance:
+BloodlustKillCD:
+NormalKillCD:
+BloodlustPlayerCount:
+GlowVision:
+HackButtonText:
+NukeRadius:
+NukeCooldown:
+Masochist Text Strings:
+MasochistKillMax:
+GuessMasochist:
+MasochistKill:
+SelfGuessMasochist:
+GuessMasochistBlocked:
+AmnesiacRemembered:
+AmnesiacInvalidTarget:
+RememberedWitch:
+ImitatedNeutralKiller:
+ImitatedMaverick:
+ImitatedWitch:
+ImitatedPursuer:
+ImitatedFollower:
+ImitatedAmnesiac:
+ImitatedImitator:
+ImitatedImpostor:
+ImitatedCrewmate:
+IncompatibleCrewmateMode:
+BanditStealMode.OnMeeting:
+BanditStealMode.Instantly:
+BanditKillCooldown:
+BanditCanUseSabotage:
+DoppelKillCooldown:
+BakerChangeChances:
+BakerChange:
+BakerChangeNow:
+BakerChangeNONE:
+PanAliveMessageTitle:
+PanAlive:
+OptionWatcher:
+OptionKnighted:
+OptionSeer:
+OptionBait:
+OptionBeartrap:
+OptionTiebreaker:
+OptionOnbound:
+OptionDisregarded:
+OptionLucky:
+OptionAutopsy:
+OptionLoyal:
+OptionSchizo:
+OptionNecroview:
+OptionGravestone:
+OptionGlow:
+OptionBewilder:
+OptionAvenger:
+CopyCatAlreadyCopy:
+MaulKillButtonText:
+KillCooldownAfterKilling:
+ImpCanBeRepairman:
+CrewCanBeRepairman:
+NeutralCanBeRepairman:
+ImpCanBeSunglasses:
+CrewCanBeSunglasses:
+NeutralCanBeSunglasses:
+SunglassesVision:
+FarseerCanBeMadmate:
+GanFarseerCanBeMadmate:
+CouncillorMurderMax:
+LaughToWhoMurderSelf:
+MurderKill:
+MurderHelp:
+MurderNull:
+MurderKillTitle:
+MurderLimitPerMeeting:
+AlchemistGotInvisPotion:
+AlchemistGotBloodlustPotion:
+AlchemistPotionBloodlust:
+DivinationMaxCount:
+EnigmaClueTitle:
+ChiefOfPoliceSkillCooldown:
+PolicCanImpostorAndNeutarl:
+SheriffSuccessfullyRecruited:
+BeSheriffByPolice:
+ChiefOfPoliceKillButtonText:
+PlagueBearerCD:
+PestilenceCD:
+PestilenceImmune:
+VengefulRomanticKillButtonText:
+MinorCooldown:
+OriginalDev:
+NewDev:
+MainDev:
+Art:
+RoleDev:
+TechSup:
+FeatureDev:
+TranEN:
+TranRU:
+TranCHT:
+OnlyShowPart:
+WinnerRoleText.Mario:
+WinnerRoleText.Gamer:
+WinnerRoleText.DarkHide:
+WinnerRoleText.Succubus:
+WinnerRoleText.Rogue:
+WinnerRoleText.Phantom:
+WinnerRoleText.Famine:
+WinnerRoleText.Masochist:
+AdditionalWinnerRoleText.NWitch:
+AdditionalWinnerRoleText.Totocalcio:
+AdditionalWinnerRoleText.Phantom:
+AutoMuteUs:
+
+HostText:
+Settings::
+
+Settings::
+
