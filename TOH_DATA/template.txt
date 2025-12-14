@@ -1,9 +1,0 @@
-welcome:Salut le nouveau, ici c'est une partie modée avec le mod "Town of host". Ce mod est légal et il provient du site internet de Gitchub et pour l'installer regarde un tuto sur Youtube pour t'aider. 
-welcome:Ce mod rajoute des tas de nouveaux rôles pour améliorer le jeu, donc si tu a des questions n'hésite pas !
-welcome:Attention ! les personnes aux pseudos immatures ou déplacés seront automatiquement explusés au bout d'un moment et pour pouvoir revenir dans ce lobby il faudra changer votre pseudo !
-welcome:Aufaite il y a aussi des règles à respecter ici, comme le fait de ne pas spammer "Démarrer" ou "Lance" par exemple, car sinon tu es expulsé. Aussi ne soit pas insultant sinon tu est directement expulsé, le but n'est pas d'embêter tout le monde ! En tout cas je te souhaite de passer un bon moment parmi nous ! ;)
-welcome:Mauvaise nouvelle, Dût a une mise à jour d'Among Us le seul moyen de faire des parties modées en étant nombreux est de faire de la pub dans d'autres lobby (oui c'est de la propagande xD) pour espérer que des personnes viennent ici...
-OnMeeting:Pour avoir les informations sur votre rôle actuel écrivez /m dans le chat et ne t'inquiète pas car les autres ne verront pas la description de ton rôle. Au faite s'il y a quelque chose que tu ne comprend pas n'hésite pas à me le dire !.
-OnMeeting:Au niveau des rôles, vous ne devez pas dire votre rôle SAUF si vous êtes : le Vif d'or (à la fin) ou le Shérif 
-OnFirstMeeting:En tout cas je vous souhaite BONNE CHANCE a tous ! :D
-RoomCode:TOHDIS
